@@ -1,6 +1,6 @@
-# 🌐 Wiki Structure Crypto Indonesia
+# 🌐 Wiki Structure Financial Markets Indonesia
 
-**Selamat datang di Crypto Wiki Indonesia!**
+**Selamat datang di Financial Markets Wiki Indonesia - Crypto, Forex, Stock, Commodity, dan Traditional Finance!**
 
 **Ini adalah wiki terstruktur yang interkoneksi antar topik. Setiap halaman terhubung dengan halaman terkait, membuat pengalaman belajar yang menyeluruh seperti menjelajahi ensiklopedia.**
 
@@ -8,30 +8,44 @@
 
 ## 🗺️ Peta Wiki Interkoneksi
 
-### **📚 Kategori Utama**
+### **📚 Kategori Utama (27 Major Categories)**
 ```
-🌐 Wiki Structure
-├── 🚀 Fundamentals (Dasar-dasar)
-├── 🔗 Blockchain Technology (Teknologi Blockchain)
-├── 💰 Cryptocurrency Deep Dive (Seluk-beluk Cryptocurrency)
-├── 🏗️ DeFi & Web3 Ecosystem (Ekosistem DeFi & Web3)
-├── 🎮 Gaming & NFT Universe (Dunia Gaming & NFT)
-├── 📊 Trading & Investment (Trading & Investasi)
-├── 🌍 Global Impact & Economics (Dampak Global & Ekonomi)
-├── 🛡️ Security & Risk Management (Keamanan & Manajemen Risiko)
-├── 📚 Advanced Topics (Topik Lanjutan)
-├── 🛠️ Practical Tutorials (Tutorial Praktis)
-├── 💼 Traditional Finance & Markets (Keuangan Tradisional & Pasar)
-├── 🏛️ Professional Trading & Institutions (Trading Profesional & Institusi)
-├── 📈 Quantitative Finance & Algorithms (Keuangan Kuantitatif & Algoritma)
-├── 🏢 Corporate Finance & Business (Keuangan Korporasi & Bisnis)
-├── 🎓 Financial Education & Literacy (Pendidikan & Literasi Keuangan)
-├── 🔬 Research & Analysis Methods (Metode Riset & Analisis)
-├── 🌱 Sustainable & Ethical Finance (Keuangan Berkelanjutan & Etis)
-├── 🌏 Global Stock Markets (Pasar Saham Global)
-├── 🏭 Industry Analysis & Sectors (Analisis Industri & Sektor)
-├── 🏛️ Institutional & Sovereign Wealth (Institusi & Kekayaan Negara)
-└── 📊 Macroeconomic Analysis (Analisis Makroekonomi)
+🌐 Financial Markets Knowledge Base
+│
+├── 🏛️ MONEY & BANKING SYSTEMS
+│   ├── 23-Traditional-Money-Banking (Sistem Keuangan Tradisional)
+│   ├── 24-Forex-Markets (Pasar Valuta Asing)
+│   └── 25-Commodity-Markets (Pasar Komoditas)
+│
+├── 💰 CRYPTOCURRENCY & BLOCKCHAIN
+│   ├── 01-Fundamentals (Dasar-dasar)
+│   ├── 02-Blockchain-Technology (Teknologi Blockchain)
+│   ├── 03-Cryptocurrency-Deep-Dive (Seluk-beluk Cryptocurrency)
+│   ├── 04-DeFi-Web3-Ecosystem (Ekosistem DeFi & Web3)
+│   ├── 05-Gaming-NFT-Universe (Dunia Gaming & NFT)
+│   ├── 06-Trading-Investment (Trading & Investasi)
+│   ├── 07-Global-Impact-Economics (Dampak Global & Ekonomi)
+│   └── 08-Security-Risk-Management (Keamanan & Manajemen Risiko)
+│
+├── 📈 GLOBAL FINANCIAL MARKETS
+│   ├── 19-Global-Stock-Markets (Pasar Saham Global)
+│   ├── 20-Industry-Analysis-Sectors (Analisis Industri & Sektor)
+│   └── 21-Institutional-Sovereign-Wealth (Institusi & Kekayaan Negara)
+│
+├── 🏛️ PROFESSIONAL FINANCE
+│   ├── 09-Advanced-Topics (Topik Lanjutan)
+│   ├── 10-Practical-Tutorials (Tutorial Praktis)
+│   ├── 11-Traditional-Finance (Keuangan Tradisional & Pasar)
+│   ├── 12-Professional-Trading (Trading Profesional & Institusi)
+│   ├── 13-Quantitative-Finance (Keuangan Kuantitatif & Algoritma)
+│   ├── 14-Corporate-Finance (Keuangan Korporasi & Bisnis)
+│   └── 15-Financial-Education (Pendidikan & Literasi Keuangan)
+│
+└── 🌍 ADVANCED ANALYSIS
+    ├── 16-Research-Methods (Metode Riset & Analisis)
+    ├── 17-Sustainable-Finance (Keuangan Berkelanjutan & Etis)
+    ├── 18-Indonesia-Specific (Khusus Indonesia)
+    └── 22-Macroeconomic-Analysis (Analisis Makroekonomi)
 ```
 
 ### **🔗 Sistem Interkoneksi**

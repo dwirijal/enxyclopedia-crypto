@@ -1,18 +1,101 @@
-# 🌐 Main Category Overview
+# 🌐 Main Category Overview - Financial Markets Knowledge Base
 
-**Portal utama untuk navigasi semua 22 kategori knowledge base crypto**
+**Portal utama untuk navigasi semua kategori financial markets: Money, Crypto, Forex, Stock, Commodity**
 
 ---
 
-## 🗺️ Peta Lengkap Knowledge Base
+## 🗺️ Peta Lengkap Financial Knowledge Base
 
-**Total Kategori**: 22 Major Categories
-**Total Topik**: 350+ Structured Topics
-**Total Artikel**: 1000+ Potential Notes
+**Total Kategori**: 27 Major Categories
+**Total Topik**: 500+ Structured Topics
+**Total Artikel**: 1500+ Potential Notes
+
+---
+
+## 💰 The Evolution of Money & Markets
+
+### **🔄 Journey Through Financial Evolution**:
+```
+🏛️ Traditional Money → 💰 Cryptocurrency → 📈 Modern Markets
+│
+├── 🏛️ Money & Banking Systems
+├── 💰 Cryptocurrency & Blockchain
+├── 📊 Global Stock Markets
+├── 💱 Foreign Exchange (Forex)
+├── 🏭 Commodity Markets
+└── 🌍 Interconnected Financial System
+```
 
 ---
 
 ## 📚 Kategori Utama (Major Categories)
+
+---
+
+## 🏛️ MONEY & BANKING SYSTEMS
+
+### **🏛️ Traditional Money & Banking (23-Traditional-Money-Banking)**
+- **Deskripsi**: Sistem keuangan tradisional, perbankan, dan mata uang fiat
+- **Progress**: 0% Complete (0/15+ articles)
+- **Level**: Beginner to Intermediate
+- **📋 TOC**: [[📋-Daftar-Isi-Traditional-Money-Banking]]
+- **Key Topics**:
+  - [[🏛️-Money-History-and-Evolution]] - Sejarah evolusi uang
+  - [[🏦-Banking-Systems-Explained]] - Sistem perbankan modern
+  - [[💳-Payment-Systems-and-Fintech]] - Sistem pembayaran digital
+  - [[🏛️-Central-Banks-and-Monetary-Policy]] - Bank sentral dan kebijakan moneter
+
+### **💱 Foreign Exchange Markets (24-Forex-Markets)**
+- **Deskripsi**: Pasar valuta asing (forex) trading dan analysis
+- **Progress**: 0% Complete (0/20+ articles)
+- **Level**: Intermediate to Advanced
+- **📋 TOC**: [[📋-Daftar-Isi-Forex-Markets]]
+- **Key Topics**:
+  - [[💱-Forex-Trading-Fundamentals]] - Dasar-dasar trading forex
+  - [[📊-Currency-Pairs-and-Majors]] - Pasangan mata uang utama
+  - [[📈-Technical-Analysis-in-Forex]] - Analisis teknikal forex
+  - [[🌍-Global-Macro-and-Forex]] - Pengaruh makro global terhadap forex
+
+### **🏭 Commodity Markets (25-Commodity-Markets)**
+- **Deskripsi**: Pasar komoditas: energy, metals, agriculture, softs
+- **Progress**: 0% Complete (0/18+ articles)
+- **Level**: Intermediate to Advanced
+- **📋 TOC**: [[📋-Daftar-Isi-Commodity-Markets]]
+- **Key Topics**:
+  - [[⛽️-Energy-Markets-Oil-Gas]] - Pasar energy (minyak, gas)
+  - [[🥈-Precious-Metals-Gold-Silver]] - Logam mulia (emas, perak)
+  - [[🌾-Agricultural-Commodities]] - Komoditas pertanian
+  - [[📊-Commodity-Trading-Strategies]] - Strategi trading komoditas
+
+---
+
+## 📈 GLOBAL STOCK MARKETS
+
+### **📈 Global Stock Markets (19-Global-Stock-Markets)**
+- **Deskripsi**: Pasar saham global terlengkap
+- **Progress**: 0% Complete (0/20+ articles)
+- **Level**: Intermediate to Advanced
+- **📋 TOC**: [[📋-Daftar-Isi-Global-Stock-Markets]]
+- **Key Topics**:
+  - [[🇺🇸-US-Stock-Market-Complete-Guide]] - US markets (NYSE, NASDAQ)
+  - [[🇪🇺-European-Stock-Markets-Guide]] - European markets (FTSE, DAX, CAC)
+  - [[🏮-Asian-Stock-Markets-Comprehensive]] - Asian markets (Nikkei, Hang Seng, Shanghai)
+  - [[🇮🇩-Indonesian-Stock-Market-Guide]] - Indonesian market (IDX)
+
+### **🏭 Industry Analysis & Sectors (20-Industry-Analysis-Sectors)**
+- **Deskripsi**: Analisis industri dan sektor lengkap
+- **Progress**: 0% Complete (0/25+ articles)
+- **Level**: Intermediate to Advanced
+- **📋 TOC**: [[📋-Daftar-Isi-Industry-Analysis-Sectors]]
+- **Key Topics**:
+  - [[💻-Technology-Sector-Analysis]] - Sektor teknologi
+  - [[🏦-Financial-Services-Analysis]] - Sektor jasa keuangan
+  - [[⚕️-Healthcare-Sector-Deep-Dive]] - Sektor healthcare
+  - [[⚡-Energy-Sector-Analysis]] - Sektor energy
+
+---
+
+## 💰 CRYPTOCURRENCY & BLOCKCHAIN
 
 ### **🚀 Fundamentals (01-Fundamentals)**
 - **Deskripsi**: Dasar-dasar crypto yang wajib dipelajari
