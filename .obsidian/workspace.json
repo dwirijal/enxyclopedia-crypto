@@ -173,13 +173,23 @@
               "icon": "lucide-list",
               "title": "Outline of 👛-Crypto-Wallet-Guide-Lengkap-Indonesia"
             }
+          },
+          {
+            "id": "77913babe6ca2327",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
