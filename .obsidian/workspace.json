@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-09-23.md",
+                "file": "🌐-DeFi-Web3-Keuangan-Masa-Depan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-23"
+              "title": "🌐-DeFi-Web3-Keuangan-Masa-Depan"
             }
           }
         ]
@@ -31,10 +31,13 @@
             "id": "8e4aece1cfe1fabb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-09-23.md",
+                "file": "🌐-DeFi-Web3-Keuangan-Masa-Depan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-23"
+              "title": "Backlinks for 🌐-DeFi-Web3-Keuangan-Masa-Depan"
             }
           },
           {
@@ -129,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-09-23.md",
+                "file": "🌐-DeFi-Web3-Keuangan-Masa-Depan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-09-23"
+              "title": "Outgoing links from 🌐-DeFi-Web3-Keuangan-Masa-Depan"
             }
           },
           {
@@ -158,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-09-23.md",
+                "file": "🌐-DeFi-Web3-Keuangan-Masa-Depan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-23"
+              "title": "Outline of 🌐-DeFi-Web3-Keuangan-Masa-Depan"
             }
           }
         ]
@@ -182,13 +185,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "d2c8f6899d5c269c",
   "lastOpenFiles": [
+    "🇮🇩-Crypto-Indonesia-Guide-Lengkap.md",
+    "🇮🇩-Crypto-Indonesia-Guide-Lengkap.md.tmp.16612.1758564516832",
+    "Welcome.md",
+    "Untitled.base",
     "Untitled.canvas",
     "2025-09-23.md",
-    "Welcome.md"
+    "🔒-Crypto-Security-Jangan-Sampe-Kena-Skap.md",
+    "🔒-Crypto-Security-Jangan-Sampe-Kena-Skap.md.tmp.16612.1758564463149",
+    "🚀-Crypto-101-Guide-Indonesia.md",
+    "🎨-NFT-Dan-Metaverse-Gimana-Caranya.md",
+    "🎨-NFT-Dan-Metaverse-Gimana-Caranya.md.tmp.16612.1758564435010",
+    "💸-Dari-Tukar-Baru-Sampe-Bitcoin.md",
+    "🌐-DeFi-Web3-Keuangan-Masa-Depan.md",
+    "📱-Crypto-Slang-Bahasa-Indonesia.md",
+    "📱-Crypto-Slang-Bahasa-Indonesia.md.tmp.16612.1758564402310",
+    "💼-Trading-Crypto-Biar-Cuan.md",
+    "🚀-Crypto-101-Guide-Indonesia.md.tmp.16612.1758564373350",
+    "Crypto-Trading-Investing.md",
+    "🎯-Jenis-Jenis-Krypto-Lengkap.md",
+    "🔗-Blockchain-Teknologi-Masa-Depan.md",
+    "🪙-Bitcoin-Untuk-Pemula.md",
+    "Crypto-DeFi-Web3.md",
+    "Crypto-DeFi-Web3.md.tmp.16612.1758564249913",
+    "Crypto-Trading-Investing.md.tmp.16612.1758564227450",
+    "Crypto-Cryptocurrency-Types.md",
+    "Crypto-Cryptocurrency-Types.md.tmp.16612.1758564202867",
+    "Crypto-Blockchain-Technology.md",
+    "Crypto-Blockchain-Technology.md.tmp.16612.1758564177934",
+    "Crypto-Bitcoin-Fundamentals.md",
+    "Crypto-History-of-Money.md",
+    "Crypto-Knowledge-Hub.md"
   ]
 }
