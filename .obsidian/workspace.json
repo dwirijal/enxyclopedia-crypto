@@ -11,14 +11,17 @@
             "id": "d2c8f6899d5c269c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🌐-DeFi-Web3-Keuangan-Masa-Depan.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "🌐-DeFi-Web3-Keuangan-Masa-Depan"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -31,13 +34,14 @@
             "id": "8e4aece1cfe1fabb",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "👛-Crypto-Wallet-Guide-Lengkap-Indonesia"
             }
           }
         ]
@@ -113,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌐-DeFi-Web3-Keuangan-Masa-Depan.md",
+                "file": "07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🌐-DeFi-Web3-Keuangan-Masa-Depan"
+              "title": "Backlinks for 👛-Crypto-Wallet-Guide-Lengkap-Indonesia"
             }
           },
           {
@@ -132,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌐-DeFi-Web3-Keuangan-Masa-Depan.md",
+                "file": "07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🌐-DeFi-Web3-Keuangan-Masa-Depan"
+              "title": "Outgoing links from 👛-Crypto-Wallet-Guide-Lengkap-Indonesia"
             }
           },
           {
@@ -161,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌐-DeFi-Web3-Keuangan-Masa-Depan.md",
+                "file": "07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🌐-DeFi-Web3-Keuangan-Masa-Depan"
+              "title": "Outline of 👛-Crypto-Wallet-Guide-Lengkap-Indonesia"
             }
           }
         ]
@@ -190,38 +194,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d2c8f6899d5c269c",
+  "active": "8e4aece1cfe1fabb",
   "lastOpenFiles": [
-    "🇮🇩-Crypto-Indonesia-Guide-Lengkap.md",
-    "🇮🇩-Crypto-Indonesia-Guide-Lengkap.md.tmp.16612.1758564516832",
-    "Welcome.md",
-    "Untitled.base",
+    "📚-Crypto-Knowledge-Base-Index.md",
+    "📚-Crypto-Knowledge-Base-Index.md.tmp.16612.1758565474807",
+    "01-Fundamentals/🚀-Crypto-101-Guide-Indonesia.md",
+    "01-Fundamentals/🪙-Bitcoin-Untuk-Pemula.md",
+    "06-NFT-Metaverse/🎮-Web3-Gaming-Metaverse-Guide-2025.md",
+    "06-NFT-Metaverse/🎮-Web3-Gaming-Metaverse-Guide-2025.md.tmp.16612.1758565441141",
+    "01-Fundamentals/💸-Dari-Tukar-Baru-Sampe-Bitcoin.md",
+    "06-NFT-Metaverse/🎨-NFT-Market-Analysis-Trends-2025.md",
+    "06-NFT-Metaverse/🎨-NFT-Market-Analysis-Trends-2025.md.tmp.16612.1758565384881",
+    "04-Trading-Investing/🎯-Advanced-Trading-Strategies-2025.md",
+    "04-Trading-Investing/🎯-Advanced-Trading-Strategies-2025.md.tmp.16612.1758565342743",
+    "09-Advanced-Topics/🔮-Crypto-Trends-Teknologi-2025.md",
+    "09-Advanced-Topics/🔮-Crypto-Trends-Teknologi-2025.md.tmp.16612.1758565300616",
+    "08-Indonesia-Guide/🇮🇩-Crypto-Indonesia-Guide-Lengkap.md.tmp.16612.1758565257285",
+    "08-Indonesia-Guide/🇮🇩-Crypto-Indonesia-Guide-Lengkap.md.tmp.16612.1758565252989",
+    "05-DeFi-Web3/📊-DeFi-Protocols-Status-2025.md",
+    "05-DeFi-Web3/📊-DeFi-Protocols-Status-2025.md.tmp.16612.1758565241334",
+    "04-Trading-Investing/📈-Crypto-Market-Analysis-2025.md",
+    "04-Trading-Investing/📈-Crypto-Market-Analysis-2025.md.tmp.16612.1758565209131",
+    "10-Resources/📱-Crypto-Slang-Bahasa-Indonesia.md",
+    "08-Indonesia-Guide/💰-Pajak-Crypto-Indonesia-Lengkap.md",
+    "08-Indonesia-Guide/🇮🇩-Crypto-Indonesia-Guide-Lengkap.md",
+    "07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
+    "07-Security/🔒-Crypto-Security-Jangan-Sampe-Kena-Skap.md",
+    "06-NFT-Metaverse/🎨-NFT-Dan-Metaverse-Gimana-Caranya.md",
+    "05-DeFi-Web3/🌐-DeFi-Web3-Keuangan-Masa-Depan.md",
+    "05-DeFi-Web3/🏗️-DeFi-Protocols-Guide-Lengkap.md",
+    "04-Trading-Investing/🧠-Crypto-Psychology-Mindset-Indonesia.md",
+    "04-Trading-Investing/📊-Technical-Analysis-Crypto-Indonesia.md",
+    "04-Trading-Investing/💼-Trading-Crypto-Biar-Cuan.md",
+    "03-Crypto-Types/📚-Crypto-Glossary-Lengkap-Indonesia.md",
+    "03-Crypto-Types/🎯-Jenis-Jenis-Krypto-Lengkap.md",
+    "02-Blockchain-Tech/⚡-Blockchain-Scalability-Solutions-Indonesia.md",
+    "02-Blockchain-Tech/🔗-Blockchain-Teknologi-Masa-Depan.md",
+    "10-Resources",
     "Untitled.canvas",
-    "2025-09-23.md",
-    "🔒-Crypto-Security-Jangan-Sampe-Kena-Skap.md",
-    "🔒-Crypto-Security-Jangan-Sampe-Kena-Skap.md.tmp.16612.1758564463149",
-    "🚀-Crypto-101-Guide-Indonesia.md",
-    "🎨-NFT-Dan-Metaverse-Gimana-Caranya.md",
-    "🎨-NFT-Dan-Metaverse-Gimana-Caranya.md.tmp.16612.1758564435010",
-    "💸-Dari-Tukar-Baru-Sampe-Bitcoin.md",
-    "🌐-DeFi-Web3-Keuangan-Masa-Depan.md",
-    "📱-Crypto-Slang-Bahasa-Indonesia.md",
-    "📱-Crypto-Slang-Bahasa-Indonesia.md.tmp.16612.1758564402310",
-    "💼-Trading-Crypto-Biar-Cuan.md",
-    "🚀-Crypto-101-Guide-Indonesia.md.tmp.16612.1758564373350",
-    "Crypto-Trading-Investing.md",
-    "🎯-Jenis-Jenis-Krypto-Lengkap.md",
-    "🔗-Blockchain-Teknologi-Masa-Depan.md",
-    "🪙-Bitcoin-Untuk-Pemula.md",
-    "Crypto-DeFi-Web3.md",
-    "Crypto-DeFi-Web3.md.tmp.16612.1758564249913",
-    "Crypto-Trading-Investing.md.tmp.16612.1758564227450",
-    "Crypto-Cryptocurrency-Types.md",
-    "Crypto-Cryptocurrency-Types.md.tmp.16612.1758564202867",
-    "Crypto-Blockchain-Technology.md",
-    "Crypto-Blockchain-Technology.md.tmp.16612.1758564177934",
-    "Crypto-Bitcoin-Fundamentals.md",
-    "Crypto-History-of-Money.md",
-    "Crypto-Knowledge-Hub.md"
+    "📚-Crypto-Glossary-Lengkap-Indonesia.md"
   ]
 }
