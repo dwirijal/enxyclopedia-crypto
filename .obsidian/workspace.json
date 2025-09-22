@@ -4,44 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "380d3fdde23c21e3",
+        "id": "44768e78c88f9116",
         "type": "tabs",
         "children": [
           {
-            "id": "d2c8f6899d5c269c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          }
-        ]
-      },
-      {
-        "id": "532d776c0587c1de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8e4aece1cfe1fabb",
+            "id": "26e908bdf4b9ce00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
+                "file": "🌐-Wiki-Structure-Crypto-Indonesia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "👛-Crypto-Wallet-Guide-Lengkap-Indonesia"
+              "title": "🌐-Wiki-Structure-Crypto-Indonesia"
             }
           }
         ]
@@ -117,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
+                "file": "🌐-Wiki-Structure-Crypto-Indonesia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 👛-Crypto-Wallet-Guide-Lengkap-Indonesia"
+              "title": "Backlinks for 🌐-Wiki-Structure-Crypto-Indonesia"
             }
           },
           {
@@ -136,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
+                "file": "🌐-Wiki-Structure-Crypto-Indonesia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 👛-Crypto-Wallet-Guide-Lengkap-Indonesia"
+              "title": "Outgoing links from 🌐-Wiki-Structure-Crypto-Indonesia"
             }
           },
           {
@@ -165,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
+                "file": "🌐-Wiki-Structure-Crypto-Indonesia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 👛-Crypto-Wallet-Guide-Lengkap-Indonesia"
+              "title": "Outline of 🌐-Wiki-Structure-Crypto-Indonesia"
             }
           },
           {
@@ -204,44 +181,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8e4aece1cfe1fabb",
+  "active": "7fd9cf06e6c729f2",
   "lastOpenFiles": [
+    "02-Blockchain-Technology/🔗-Cryptographic-Primitives.md",
+    "02-Blockchain-Technology/🔗-Cryptographic-Primitives.md.tmp.16612.1758572819015",
+    "02-Blockchain-Technology/🔗-Consensus-Mechanisms-Deep-Dive.md",
+    "02-Blockchain-Technology/🔗-Consensus-Mechanisms-Deep-Dive.md.tmp.16612.1758572789880",
+    "02-Blockchain-Technology/📋-Daftar-Isi-Blockchain-Technology.md",
+    "02-Blockchain-Technology/📋-Daftar-Isi-Blockchain-Technology.md.tmp.16612.1758572751909",
+    "01-Fundamentals/💡-Key-Crypto-Concepts-Glossary.md",
+    "01-Fundamentals/💡-Key-Crypto-Concepts-Glossary.md.tmp.16612.1758572734766",
+    "01-Fundamentals/💰-Tokenomics-Deep-Dive.md",
+    "01-Fundamentals/💰-Tokenomics-Deep-Dive.md.tmp.16612.1758572711921",
+    "01-Fundamentals/📋-Daftar-Isi-Fundamentals.md",
+    "01-Fundamentals/📋-Daftar-Isi-Fundamentals.md.tmp.16612.1758572695677",
     "📚-Crypto-Knowledge-Base-Index.md",
-    "📚-Crypto-Knowledge-Base-Index.md.tmp.16612.1758565474807",
-    "01-Fundamentals/🚀-Crypto-101-Guide-Indonesia.md",
-    "01-Fundamentals/🪙-Bitcoin-Untuk-Pemula.md",
-    "06-NFT-Metaverse/🎮-Web3-Gaming-Metaverse-Guide-2025.md",
-    "06-NFT-Metaverse/🎮-Web3-Gaming-Metaverse-Guide-2025.md.tmp.16612.1758565441141",
-    "01-Fundamentals/💸-Dari-Tukar-Baru-Sampe-Bitcoin.md",
-    "06-NFT-Metaverse/🎨-NFT-Market-Analysis-Trends-2025.md",
-    "06-NFT-Metaverse/🎨-NFT-Market-Analysis-Trends-2025.md.tmp.16612.1758565384881",
-    "04-Trading-Investing/🎯-Advanced-Trading-Strategies-2025.md",
-    "04-Trading-Investing/🎯-Advanced-Trading-Strategies-2025.md.tmp.16612.1758565342743",
+    "22-Macroeconomic-Analysis",
+    "21-Institutional-Sovereign-Wealth",
+    "20-Industry-Analysis-Sectors",
+    "19-Global-Stock-Markets",
+    "08-Security-Risk-Management-final/07-Security-Tutorials/🔒-Crypto-Security-Jangan-Sampe-Kena-Skap.md",
+    "08-Security-Risk-Management-final/07-Security/🔒-Crypto-Security-Jangan-Sampe-Kena-Skap.md",
+    "08-Security-Risk-Management-final/07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
+    "09-Advanced-Topics-temp/🔮-Crypto-Trends-Teknologi-2025.md",
+    "09-Advanced-Topics-temp/🔮-Crypto-Narratives-Guide.md",
+    "09-Advanced-Topics-temp/🔧-Web3-dApp-Development-Guide-Lengkap.md",
+    "09-Advanced-Topics-temp/📈-Market-Cycles-Guide.md",
+    "08-Security-Risk-Management/07-Security-Tutorials/🔒-Crypto-Security-Jangan-Sampe-Kena-Skap.md",
+    "08-Security-Risk-Management/07-Security/🔒-Crypto-Security-Jangan-Sampe-Kena-Skap.md",
+    "08-Security-Risk-Management/07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
+    "10-Practical-Tutorials-temp/09-Tutorials/🎓-Tutorial-Guide-Lengkap.md",
     "09-Advanced-Topics/🔮-Crypto-Trends-Teknologi-2025.md",
-    "09-Advanced-Topics/🔮-Crypto-Trends-Teknologi-2025.md.tmp.16612.1758565300616",
-    "08-Indonesia-Guide/🇮🇩-Crypto-Indonesia-Guide-Lengkap.md.tmp.16612.1758565257285",
-    "08-Indonesia-Guide/🇮🇩-Crypto-Indonesia-Guide-Lengkap.md.tmp.16612.1758565252989",
-    "05-DeFi-Web3/📊-DeFi-Protocols-Status-2025.md",
-    "05-DeFi-Web3/📊-DeFi-Protocols-Status-2025.md.tmp.16612.1758565241334",
-    "04-Trading-Investing/📈-Crypto-Market-Analysis-2025.md",
-    "04-Trading-Investing/📈-Crypto-Market-Analysis-2025.md.tmp.16612.1758565209131",
-    "10-Resources/📱-Crypto-Slang-Bahasa-Indonesia.md",
-    "08-Indonesia-Guide/💰-Pajak-Crypto-Indonesia-Lengkap.md",
-    "08-Indonesia-Guide/🇮🇩-Crypto-Indonesia-Guide-Lengkap.md",
-    "07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
-    "07-Security/🔒-Crypto-Security-Jangan-Sampe-Kena-Skap.md",
-    "06-NFT-Metaverse/🎨-NFT-Dan-Metaverse-Gimana-Caranya.md",
-    "05-DeFi-Web3/🌐-DeFi-Web3-Keuangan-Masa-Depan.md",
-    "05-DeFi-Web3/🏗️-DeFi-Protocols-Guide-Lengkap.md",
-    "04-Trading-Investing/🧠-Crypto-Psychology-Mindset-Indonesia.md",
-    "04-Trading-Investing/📊-Technical-Analysis-Crypto-Indonesia.md",
-    "04-Trading-Investing/💼-Trading-Crypto-Biar-Cuan.md",
-    "03-Crypto-Types/📚-Crypto-Glossary-Lengkap-Indonesia.md",
-    "03-Crypto-Types/🎯-Jenis-Jenis-Krypto-Lengkap.md",
-    "02-Blockchain-Tech/⚡-Blockchain-Scalability-Solutions-Indonesia.md",
-    "02-Blockchain-Tech/🔗-Blockchain-Teknologi-Masa-Depan.md",
-    "10-Resources",
-    "Untitled.canvas",
-    "📚-Crypto-Glossary-Lengkap-Indonesia.md"
+    "09-Advanced-Topics/🔮-Crypto-Narratives-Guide.md",
+    "09-Advanced-Topics/🔧-Web3-dApp-Development-Guide-Lengkap.md",
+    "09-Advanced-Topics/📈-Market-Cycles-Guide.md",
+    "08-Security-Risk-Management-temp/07-Security-Tutorials/🔒-Crypto-Security-Jangan-Sampe-Kena-Skap.md",
+    "08-Security-Risk-Management-temp/07-Security/🔒-Crypto-Security-Jangan-Sampe-Kena-Skap.md",
+    "08-Security-Risk-Management-temp/07-Security/👛-Crypto-Wallet-Guide-Lengkap-Indonesia.md",
+    "06-Global-Impact-Economics/💼-Institutional-Adoption-Guide.md",
+    "Untitled.canvas"
   ]
 }
