@@ -11,24 +11,10 @@
             "id": "26e908bdf4b9ce00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-CRYPTO-BLOCKCHAIN/03-Cryptocurrency-Deep-Dive/💰-Bitcoin-Guide-Lengkap.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "💰-Bitcoin-Guide-Lengkap"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -193,19 +179,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7fd9cf06e6c729f2",
+  "active": "26e908bdf4b9ce00",
   "lastOpenFiles": [
+    "🛡️-Position-Sizing-in-Forex.md",
+    "02-CRYPTO-BLOCKCHAIN/03-Cryptocurrency-Deep-Dive/💰-Bitcoin-Guide-Lengkap.md",
+    "05-ADVANCED-ANALYSIS/📋-Daftar-Isi-Advanced-Analysis.md",
+    "05-ADVANCED-ANALYSIS/📋-Daftar-Isi-Advanced-Analysis.md.tmp.11700.1758625626349",
+    "04-PROFESSIONAL-FINANCE/📋-Daftar-Isi-Professional-Finance.md",
+    "04-PROFESSIONAL-FINANCE/📋-Daftar-Isi-Professional-Finance.md.tmp.11700.1758625585300",
+    "03-GLOBAL-MARKETS/📋-Daftar-Isi-Global-Markets.md",
+    "03-GLOBAL-MARKETS/📋-Daftar-Isi-Global-Markets.md.tmp.11700.1758625564223",
+    "02-CRYPTO-BLOCKCHAIN/📋-Daftar-Isi-Crypto-Blockchain.md",
+    "02-CRYPTO-BLOCKCHAIN/📋-Daftar-Isi-Crypto-Blockchain.md.tmp.11700.1758625540591",
+    "01-TRADITIONAL-FINANCE/📋-Daftar-Isi-Traditional-Finance.md",
+    "01-TRADITIONAL-FINANCE/📋-Daftar-Isi-Traditional-Finance.md.tmp.11700.1758625522033",
+    "00-MAIN-DOCS/📋-Daftar-Isi-Lengkap-Knowledge-Base.md",
+    "00-MAIN-DOCS/📋-Daftar-Isi-Lengkap-Knowledge-Base.md.tmp.11700.1758625438711",
     "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625057918",
     "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625055455",
     "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625053449",
     "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625051010",
-    "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625048020",
-    "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625045425",
-    "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625042741",
-    "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625040291",
-    "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625037276",
-    "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625033200",
-    "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625003412",
     "02-CRYPTO-BLOCKCHAIN/09-Advanced-Topics/🌱-DePIN-Decentralized-Physical-Infrastructure-Guide.md",
     "02-CRYPTO-BLOCKCHAIN/04-DeFi-Web3-Ecosystem/🌉-Bridge-Guide-Lengkap.md",
     "04-DeFi-Web3-Ecosystem/🏢-Real-World-Assets-RWA-Tokenization-Guide.md",
@@ -224,14 +217,7 @@
     "03-GLOBAL-MARKETS/19-Global-Stock-Markets/🇺🇸-US-Stock-Market-Complete-Guide.md",
     "00-MAIN-DOCS/📚-Crypto-Knowledge-Base-Index.md",
     "00-MAIN-DOCS/2025-09-23.md",
-    "00-MAIN-DOCS/🌐-Enhanced-File-Structure.md",
     "00-MAIN-DOCS/Untitled.canvas",
-    "🌐-Enhanced-File-Structure.md",
-    "00-MAIN-DOCS/🌐-Wiki-Structure-Crypto-Indonesia.md",
-    "00-MAIN-DOCS/🌐-Main-Category-Overview.md",
-    "05-ADVANCED-ANALYSIS/20-Wealth-Management/🏛️-Wealth-Management-Family-Office-Guide.md",
-    "05-ADVANCED-ANALYSIS/17-Sustainable-Finance/📋-Daftar-Isi-Sustainable-Finance.md",
-    "05-ADVANCED-ANALYSIS/17-Sustainable-Finance/💚-Sustainable-ESG-Investing.md",
     "Untitled.canvas"
   ]
 }
