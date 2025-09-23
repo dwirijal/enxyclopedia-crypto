@@ -11,10 +11,14 @@
             "id": "26e908bdf4b9ce00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "25-Commodity-Markets/📊-Commodity-Trading-Strategies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📊-Commodity-Trading-Strategies"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "25-Commodity-Markets/📊-Commodity-Trading-Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 📊-Commodity-Trading-Strategies"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "25-Commodity-Markets/📊-Commodity-Trading-Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 📊-Commodity-Trading-Strategies"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "25-Commodity-Markets/📊-Commodity-Trading-Strategies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 📊-Commodity-Trading-Strategies"
             }
           },
           {
@@ -176,42 +183,42 @@
   },
   "active": "26e908bdf4b9ce00",
   "lastOpenFiles": [
-    "🌐-Wiki-Structure-Crypto-Indonesia.md.tmp.16612.1758573481230",
-    "🌐-Wiki-Structure-Crypto-Indonesia.md.tmp.16612.1758573473994",
-    "25-Commodity-Markets/📋-Daftar-Isi-Commodity-Markets.md",
-    "25-Commodity-Markets/📋-Daftar-Isi-Commodity-Markets.md.tmp.16612.1758573465459",
-    "24-Forex-Markets/📋-Daftar-Isi-Forex-Markets.md",
-    "24-Forex-Markets/📋-Daftar-Isi-Forex-Markets.md.tmp.16612.1758573448450",
+    "🌐-Main-Category-Overview.md",
     "23-Traditional-Money-Banking/📋-Daftar-Isi-Traditional-Money-Banking.md",
-    "23-Traditional-Money-Banking/📋-Daftar-Isi-Traditional-Money-Banking.md.tmp.16612.1758573426410",
-    "25-Commodity-Markets",
-    "24-Forex-Markets",
-    "23-Traditional-Money-Banking",
-    "02-Blockchain-Technology/🔗-Blockchain-Teknologi-Masa-Depan.md",
-    "🌐-Main-Category-Overview.md.tmp.16612.1758573407346",
-    "🌐-Main-Category-Overview.md.tmp.16612.1758573401767",
-    "🌐-Main-Category-Overview.md.tmp.16612.1758573395142",
-    "01-Fundamentals/💡-Key-Crypto-Concepts-Glossary.md",
-    "22-Macroeconomic-Analysis/📋-Daftar-Isi-Macroeconomic-Analysis.md",
-    "21-Institutional-Sovereign-Wealth/📋-Daftar-Isi-Institutional-Sovereign-Wealth.md",
-    "20-Industry-Analysis-Sectors/📋-Daftar-Isi-Industry-Analysis-Sectors.md",
-    "19-Global-Stock-Markets/📋-Daftar-Isi-Global-Stock-Markets.md",
-    "18-Indonesia-Specific/📋-Daftar-Isi-Indonesia-Specific.md",
-    "17-Sustainable-Finance/📋-Daftar-Isi-Sustainable-Finance.md",
-    "16-Research-Methods/📋-Daftar-Isi-Research-Methods.md",
-    "15-Financial-Education/📋-Daftar-Isi-Financial-Education.md",
-    "14-Corporate-Finance/📋-Daftar-Isi-Corporate-Finance.md",
-    "13-Quantitative-Finance/📋-Daftar-Isi-Quantitative-Finance.md",
-    "12-Professional-Trading/📋-Daftar-Isi-Professional-Trading.md",
+    "09-Professional-Finance/💼-Risk-Management-Techniques.md",
+    "09-Professional-Finance/💼-Investment-Analysis-Methods.md",
+    "09-Professional-Finance/🏛️-Corporate-Finance-Keuangan-Korporat.md",
+    "23-Traditional-Money-Banking/🏛️-Central-Banks-and-Monetary-Policy.md",
+    "08-Fintech-Innovation/💻-Fintech-Innovation-Digital-Assets-Guide.md",
+    "08-Fintech-Innovation/💻-Fintech-Innovation-Digital-Assets-Guide.md.tmp.16612.1758592283301",
+    "08-Fintech-Innovation",
+    "20-Wealth-Management/🏛️-Wealth-Management-Family-Office-Guide.md",
+    "20-Wealth-Management/🏛️-Wealth-Management-Family-Office-Guide.md.tmp.16612.1758576806122",
+    "20-Wealth-Management",
+    "19-Global-Stock-Markets/🌍-Global-Macro-Investment-Strategies.md",
+    "19-Global-Stock-Markets/🌍-Global-Macro-Investment-Strategies.md.tmp.16612.1758576195228",
+    "14-Corporate-Finance/📊-Advanced-Derivatives-Options-Trading.md",
+    "14-Corporate-Finance/📊-Advanced-Derivatives-Options-Trading.md.tmp.16612.1758576085603",
+    "17-Sustainable-Finance/💚-Sustainable-ESG-Investing.md",
+    "17-Sustainable-Finance/💚-Sustainable-ESG-Investing.md.tmp.16612.1758575871807",
+    "13-Quantitative-Finance/🔢-Quantitative-Finance-Strategies.md",
+    "13-Quantitative-Finance/🔢-Quantitative-Finance-Strategies.md.tmp.16612.1758575729672",
+    "16-Advanced-Analysis/📈-Advanced-Technical-Analysis-Indonesia.md",
+    "16-Advanced-Analysis/📈-Advanced-Technical-Analysis-Indonesia.md.tmp.16612.1758575624544",
+    "19-Global-Stock-Markets/🇮🇩-Indonesian-Market-Strategies.md",
+    "19-Global-Stock-Markets/🇮🇩-Indonesian-Market-Strategies.md.tmp.16612.1758575477894",
+    "25-Commodity-Markets/🎨-Soft-Commodities-Trading.md",
+    "25-Commodity-Markets/⚙️-Base-Metals-Industrial-Minerals.md",
+    "09-Professional-Finance/📊-Portfolio-Management-Strategies.md",
+    "16-Advanced-Analysis/🌍-Global-Macro-and-Forex.md",
+    "16-Advanced-Analysis/🔮-Economic-Indicator-Analysis.md",
+    "09-Professional-Finance/📊-Financial-Statement-Analysis.md",
     "11-Traditional-Finance/📋-Daftar-Isi-Traditional-Finance.md",
-    "10-Practical-Tutorials/📋-Daftar-Isi-Practical-Tutorials.md",
-    "09-Advanced-Topics/📋-Daftar-Isi-Advanced-Topics.md",
-    "08-Security-Risk-Management/📋-Daftar-Isi-Security-Risk-Management.md",
-    "07-Global-Impact-Economics/📋-Daftar-Isi-Global-Impact-Economics.md",
-    "06-Trading-Investment/📋-Daftar-Isi-Trading-Investment.md",
-    "05-Gaming-NFT-Universe/📋-Daftar-Isi-Gaming-NFT-Universe.md",
-    "04-DeFi-Web3-Ecosystem/📋-Daftar-Isi-DeFi-Web3-Ecosystem.md",
-    "03-Cryptocurrency-Deep-Dive/📋-Daftar-Isi-Cryptocurrency-Deep-Dive.md",
+    "06-Trading-Investment/💼-Trading-Crypto-Biar-Cuan.md",
+    "25-Commodity-Markets/⚡-Electricity-and-Power-Markets.md",
+    "06-Trading-Investment/🎯-Advanced-Trading-Strategies-2025.md",
+    "16-Research-Methods/📋-Daftar-Isi-Research-Methods.md",
+    "25-Commodity-Markets/📋-Daftar-Isi-Commodity-Markets.md",
     "Untitled.canvas"
   ]
 }

@@ -3,15 +3,16 @@
 ## 🗂️ Kategori: 25-Commodity-Markets
 
 **Total Artikel: 18+**
-**Status**: ⚠️ Perlu Dibuat | 🔄 0% Complete
+**Status**: 🔄 17% Complete (3/18 articles)
 
 ---
 
 ## 📖 Artikel Utama
 
-### **[[⛽️-Energy-Markets-Oil-Gas]]** ⛽️
-**Status**: ❌ Belum Ada
-**Deskripsi**: Pasar energy: minyak, gas, dan alternatif
+### **[[⛽️-Energy-Markets-Oil-Gas]]** ⛽️ ✅
+**Status**: ✅ Sudah Ada
+**Deskripsi**: Pasar energy: minyak, gas, dan alternatif dengan studi kasus Indonesia
+**📝 Konten**: Energi Indonesia, studi kasus PLTS Cirata, geothermal, LNG Tangguh
 **Sub-topik**:
 - Child: [[⛽️-Crude-Oil-Markets]]
 - Child: [[⛽️-Natural-Gas-Markets]]
@@ -19,9 +20,10 @@
 - Child: [[⛽️-Energy-Transition-and-Investing]]
 - Related: [[⚡-Energy-Sector-Analysis]]
 
-### **[[🥈-Precious-Metals-Gold-Silver]]** 🥈
-**Status**: ❌ Belum Ada
-**Deskripsi**: Pasar logam mulia: emas, perak, platinum
+### **[[🥈-Precious-Metals-Gold-Silver]]** 🥈 ✅
+**Status**: ✅ Sudah Ada
+**Deskripsi**: Pasar logam mulia: emas, perak, platinum dengan konteks Indonesia
+**📝 Konten**: Antam, Pegadaian, investasi emas fisik, strategi DCA
 **Sub-topik**:
 - Child: [[🥈-Gold-Market-Fundamentals]]
 - Child: [[🥈-Silver-Market-Dynamics]]
@@ -39,9 +41,10 @@
 - Child: [[🌾-Agricultural-Supply-and-Demand]]
 - Related: [[🌱-Environmental-Impact-of-Crypto]]
 
-### **[[📊-Commodity-Trading-Strategies]]** 📊
-**Status**: ❌ Belum Ada
-**Deskripsi**: Strategi trading komoditas dan risk management
+### **[[📊-Commodity-Trading-Strategies]]** 📊 ✅
+**Status**: ✅ Sudah Ada
+**Deskripsi**: Strategi trading komoditas dan risk management lengkap
+**📝 Konten**: Trading CPO, futures, options, risk management, studi kasus trader Indonesia
 **Sub-topik**:
 - Child: [[📊-Futures-and-Options-in-Commodities]]
 - Child: [[📊-Commodity-Market-Timing]]
@@ -145,20 +148,21 @@ Commodity Fundamentals → Energy Markets → Metals → Agriculture → Trading
 
 | Sub-Kategori | Total Artikel | Complete | Progress |
 |--------------|---------------|----------|----------|
-| **Energy Markets** | 6 | 0 | 0% |
-| **Metals & Materials** | 5 | 0 | 0% |
+| **Energy Markets** | 6 | 1 | 17% |
+| **Metals & Materials** | 5 | 1 | 20% |
 | **Soft Commodities** | 5 | 0 | 0% |
-| **TOTAL** | 16 | 0 | 0% |
+| **Trading Strategies** | 1 | 1 | 100% |
+| **TOTAL** | 17 | 3 | 18% |
 
 ---
 
 ## 🎯 Rekomendasi Pembelajaran
 
 ### **Untuk Pemula (Urutan Wajib)**:
-1. **⛽️-Energy-Markets-Oil-Gas** ❌ - Energy markets
-2. **🥈-Precious-Metals-Gold-Silver** ❌ - Logam mulia
+1. **⛽️-Energy-Markets-Oil-Gas** ✅ - Energy markets Indonesia
+2. **🥈-Precious-Metals-Gold-Silver** ✅ - Logam mulia dengan konteks Indonesia
 3. **🌾-Agricultural-Commodities** ❌ - Agricultural commodities
-4. **📊-Commodity-Trading-Strategies** ❌ - Trading strategies
+4. **📊-Commodity-Trading-Strategies** ✅ - Trading strategies lengkap
 
 ### **Untuk Intermediate**:
 1. **⚡-Electricity-and-Power-Markets** ❌ - Power markets
@@ -175,24 +179,29 @@ Commodity Fundamentals → Energy Markets → Metals → Agriculture → Trading
 
 ## 📝 Catatan Pembuatan
 
-- **Files yang perlu dibuat**: 16
-- **Files yang sudah ada**: 0
-- **Total progress**: 0% complete
+- **Files yang perlu dibuat**: 14
+- **Files yang sudah ada**: 3
+- **Total progress**: 18% complete
+
+**✅ Completed Articles**:
+- [[⛽️-Energy-Markets-Oil-Gas]] - Pasar energy dengan studi kasus Indonesia
+- [[🥈-Precious-Metals-Gold-Silver]] - Logam mulia dengan konteks Indonesia
+- [[📊-Commodity-Trading-Strategies]] - Strategi trading komoditas lengkap
 
 **Priority 1 (High)**:
-- [[⛽️-Energy-Markets-Oil-Gas]]
-- [[🥈-Precious-Metals-Gold-Silver]]
-- [[📊-Commodity-Trading-Strategies]]
-
-**Priority 2 (Medium)**:
 - [[🌾-Agricultural-Commodities]]
 - [[⚡-Electricity-and-Power-Markets]]
 - [[🔧-Base-Metals-and-Industrial-Materials]]
 
+**Priority 2 (Medium)**:
+- [[☕-Soft-Commodities-Detailed]]
+- [[🚢-Shipping-and-Freight-Markets]]
+- [[🌊-Carbon-Markets-and-Emissions]]
+
 ---
 
 **Last Updated**: 23 September 2025
-**Next Priority**: [[⛽️-Energy-Markets-Oil-Gas]]
+**Next Priority**: [[🌾-Agricultural-Commodities]]
 
 ---
 

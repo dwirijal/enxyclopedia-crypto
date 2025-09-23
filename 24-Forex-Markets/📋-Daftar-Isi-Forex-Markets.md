@@ -3,15 +3,16 @@
 ## 🗂️ Kategori: 24-Forex-Markets
 
 **Total Artikel: 20+**
-**Status**: ⚠️ Perlu Dibuat | 🔄 0% Complete
+**Status**: 🔄 5% Complete (1/20+ articles)
 
 ---
 
 ## 📖 Artikel Utama
 
-### **[[💱-Forex-Trading-Fundamentals]]** 💱
-**Status**: ❌ Belum Ada
-**Deskripsi**: Dasar-dasar trading forex market
+### **[[💱-Trading-Forex-Untuk-Pemula-Indonesia]]** 💱 ✅
+**Status**: ✅ Sudah Ada
+**Deskripsi**: Trading forex untuk pemula Indonesia dengan IDR pairs
+**📝 Konten**: Waktu trading Indonesia, USD/IDR, regulasi Bappebti, studi kasus trader lokal
 **Sub-topik**:
 - Child: [[💱-Forex-Market-Structure]]
 - Child: [[💱-Market-Participants]]

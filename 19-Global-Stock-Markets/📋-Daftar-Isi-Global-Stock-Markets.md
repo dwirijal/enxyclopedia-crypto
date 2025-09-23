@@ -3,7 +3,7 @@
 ## 🗂️ Kategori: 19-Global-Stock-Markets
 
 **Total Artikel: 10+**
-**Status**: ⚠️ Perlu Dibuat | 🔄 0% Complete
+**Status**: 🔄 10% Complete (1/10+ articles)
 
 ---
 

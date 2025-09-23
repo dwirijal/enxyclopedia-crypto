@@ -36,20 +36,28 @@
 
 ### **🏛️ Traditional Money & Banking (23-Traditional-Money-Banking)**
 - **Deskripsi**: Sistem keuangan tradisional, perbankan, dan mata uang fiat
-- **Progress**: 0% Complete (0/15+ articles)
+- **Progress**: 33% Complete (5/15+ articles)
 - **Level**: Beginner to Intermediate
 - **📋 TOC**: [[📋-Daftar-Isi-Traditional-Money-Banking]]
+- **✅ Completed Articles**:
+  - [[🏛️-Sejarah-Uang-Dari-Barter-Sampai-Digital]] - Evolusi uang dengan studi kasus Indonesia
+  - [[🏦-Sistem-Perbankan-Indonesia-Lengkap]] - Sistem perbankan Indonesia lengkap
+  - [[💳-Payment-Systems-and-Fintech]] - Sistem pembayaran dan fintech revolusi di Indonesia
+  - [[🏛️-Central-Banks-and-Monetary-Policy]] - Bank sentral dan kebijakan moneter dengan studi kasus BI
+  - [[⚡-Electricity-and-Power-Markets]] - Pasar listrik dan trading energi dengan konteks Indonesia
 - **Key Topics**:
   - [[🏛️-Money-History-and-Evolution]] - Sejarah evolusi uang
   - [[🏦-Banking-Systems-Explained]] - Sistem perbankan modern
-  - [[💳-Payment-Systems-and-Fintech]] - Sistem pembayaran digital
-  - [[🏛️-Central-Banks-and-Monetary-Policy]] - Bank sentral dan kebijakan moneter
+  - [[💳-Digital-Payment-Systems]] - Sistem pembayaran digital
+  - [[🏛️-Monetary-Policy-Tools]] - Kebijakan moneter
 
 ### **💱 Foreign Exchange Markets (24-Forex-Markets)**
 - **Deskripsi**: Pasar valuta asing (forex) trading dan analysis
-- **Progress**: 0% Complete (0/20+ articles)
+- **Progress**: 5% Complete (1/20+ articles)
 - **Level**: Intermediate to Advanced
 - **📋 TOC**: [[📋-Daftar-Isi-Forex-Markets]]
+- **✅ Completed Articles**:
+  - [[💱-Trading-Forex-Untuk-Pemula-Indonesia]] - Trading forex untuk pemula Indonesia dengan IDR
 - **Key Topics**:
   - [[💱-Forex-Trading-Fundamentals]] - Dasar-dasar trading forex
   - [[📊-Currency-Pairs-and-Majors]] - Pasangan mata uang utama
@@ -58,9 +66,13 @@
 
 ### **🏭 Commodity Markets (25-Commodity-Markets)**
 - **Deskripsi**: Pasar komoditas: energy, metals, agriculture, softs
-- **Progress**: 0% Complete (0/18+ articles)
+- **Progress**: 17% Complete (3/18+ articles)
 - **Level**: Intermediate to Advanced
 - **📋 TOC**: [[📋-Daftar-Isi-Commodity-Markets]]
+- **✅ Completed Articles**:
+  - [[⛽️-Energy-Markets-Oil-Gas]] - Pasar energy dengan studi kasus Indonesia
+  - [[🥈-Precious-Metals-Gold-Silver]] - Logam mulia dengan konteks Indonesia
+  - [[📊-Commodity-Trading-Strategies]] - Strategi trading komoditas lengkap
 - **Key Topics**:
   - [[⛽️-Energy-Markets-Oil-Gas]] - Pasar energy (minyak, gas)
   - [[🥈-Precious-Metals-Gold-Silver]] - Logam mulia (emas, perak)
@@ -73,9 +85,11 @@
 
 ### **📈 Global Stock Markets (19-Global-Stock-Markets)**
 - **Deskripsi**: Pasar saham global terlengkap
-- **Progress**: 0% Complete (0/20+ articles)
+- **Progress**: 5% Complete (1/20+ articles)
 - **Level**: Intermediate to Advanced
 - **📋 TOC**: [[📋-Daftar-Isi-Global-Stock-Markets]]
+- **✅ Completed Articles**:
+  - [[📈-Pasar-Saham-Indonesia-Lengkap]] - Panduan lengkap pasar saham Indonesia dengan BEI
 - **Key Topics**:
   - [[🇺🇸-US-Stock-Market-Complete-Guide]] - US markets (NYSE, NASDAQ)
   - [[🇪🇺-European-Stock-Markets-Guide]] - European markets (FTSE, DAX, CAC)
@@ -323,12 +337,12 @@
 
 ### **Path 1: Complete Beginner (3-6 months)**
 ```
-01-Fundamentals → 08-Security → 06-Trading → 18-Indonesia → 15-Financial-Education
+01-Fundamentals → 23-Traditional-Money-Banking → 08-Security → 19-Global-Stocks → 15-Financial-Education
 ```
 
 ### **Path 2: Aspiring Trader (2-4 months)**
 ```
-01-Fundamentals → 06-Trading → 12-Professional → 13-Quantitative → 16-Research-Methods
+01-Fundamentals → 24-Forex-Markets → 06-Trading → 25-Commodity-Markets → 12-Professional → 16-Research-Methods
 ```
 
 ### **Path 3: DeFi/Web3 Developer (3-5 months)**
@@ -336,14 +350,19 @@
 01-Fundamentals → 02-Blockchain → 04-DeFi → 09-Advanced → 10-Tutorials → 16-Research-Methods
 ```
 
-### **Path 4: Institutional Professional (4-6 months)**
+### **Path 4: Traditional Finance Professional (4-6 months)**
 ```
-11-Traditional-Finance → 12-Professional → 13-Quantitative → 16-Research → 21-Institutional → 22-Macroeconomic
+23-Traditional-Money-Banking → 11-Traditional-Finance → 19-Global-Stocks → 25-Commodity-Markets → 22-Macroeconomic → 21-Institutional
 ```
 
 ### **Path 5: Global Investor (3-5 months)**
 ```
-01-Fundamentals → 06-Trading → 19-Global-Stocks → 20-Industry-Analysis → 22-Macroeconomic → 17-Sustainable
+01-Fundamentals → 24-Forex-Markets → 19-Global-Stocks → 25-Commodity-Markets → 20-Industry-Analysis → 22-Macroeconomic
+```
+
+### **Path 6: Indonesian Market Specialist (2-4 months)**
+```
+23-Traditional-Money-Banking → 24-Forex-Markets → 19-Global-Stocks (Indonesia focus) → 25-Commodity-Markets → 18-Indonesia-Specific
 ```
 
 ---
@@ -354,6 +373,10 @@
 |----------|----------|----------|----------|------------------|
 | **Fundamentals** | 9 | 6 | 67% | Beginner |
 | **Blockchain Tech** | 18 | 4 | 22% | Technical |
+| **Traditional Money & Banking** | 15+ | 5 | 33% | Beginner-Intermediate |
+| **Foreign Exchange Markets** | 20+ | 1 | 5% | Intermediate-Advanced |
+| **Commodity Markets** | 18+ | 3 | 17% | Intermediate-Advanced |
+| **Global Stock Markets** | 20+ | 1 | 5% | Intermediate-Advanced |
 | **Cryptocurrency** | 15+ | 0 | 0% | Mixed |
 | **DeFi/Web3** | 12+ | 0 | 0% | Advanced |
 | **Gaming/NFT** | 10+ | 0 | 0% | Mixed |
@@ -370,11 +393,10 @@
 | **Research Methods** | 12+ | 0 | 0% | Advanced |
 | **Sustainable Finance** | 10+ | 0 | 0% | Intermediate |
 | **Indonesia Specific** | 8+ | 0 | 0% | Mixed |
-| **Global Stock Markets** | 20+ | 0 | 0% | Advanced |
 | **Industry Analysis** | 25+ | 0 | 0% | Advanced |
 | **Institutional Wealth** | 15+ | 0 | 0% | Expert |
 | **Macroeconomic Analysis** | 20+ | 0 | 0% | Expert |
-| **TOTAL** | **350+** | **10** | **3%** | **All Levels** |
+| **TOTAL** | **350+** | **20** | **6%** | **All Levels** |
 
 ---
 
@@ -415,7 +437,8 @@
 
 **Last Updated**: 23 September 2025
 **Next Priority**: Complete remaining category TOCs
-**Total Articles to Create**: 340+
+**Total Articles to Create**: 330+
+**Completed Articles**: 20 (6% complete)
 
 ---
 
