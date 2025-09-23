@@ -1,6 +1,7 @@
-# 🌾 Agricultural Commodities - Komoditas Pertanian Lengkap
+# 🌾 Agricultural Commodities
 
-**Panduan lengkap trading komoditas pertanian dengan fokus pasar Indonesia dan studi kasus lokal**
+> **Panduan Lengkap Komoditas Pertanian dan Dampak Ekonominya**
+> *Memahami Pasar Komoditas Pertanian untuk Investor Indonesia*
 
 ---
 
