@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚-Crypto-Knowledge-Base-Index.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "📚-Crypto-Knowledge-Base-Index"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚-Crypto-Knowledge-Base-Index.md",
+                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 📚-Crypto-Knowledge-Base-Index"
+              "title": "Backlinks for CLAUDE"
             }
           },
           {
@@ -113,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚-Crypto-Knowledge-Base-Index.md",
+                "file": "CLAUDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 📚-Crypto-Knowledge-Base-Index"
+              "title": "Outgoing links from CLAUDE"
             }
           },
           {
@@ -142,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚-Crypto-Knowledge-Base-Index.md",
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📚-Crypto-Knowledge-Base-Index"
+              "title": "Outline of CLAUDE"
             }
           },
           {
@@ -178,47 +188,50 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "26e908bdf4b9ce00",
   "lastOpenFiles": [
-    "16-Advanced-Analysis/🌍-Global-Macro-and-Forex.md",
-    "25-Commodity-Markets/📊-Commodity-Trading-Strategies.md",
-    "06-Trading-Investment/💼-Trading-Crypto-Biar-Cuan.md.tmp.16612.1758592820073",
-    "🌐-Main-Category-Overview.md",
-    "23-Traditional-Money-Banking/📋-Daftar-Isi-Traditional-Money-Banking.md",
-    "09-Professional-Finance/💼-Risk-Management-Techniques.md",
-    "09-Professional-Finance/💼-Investment-Analysis-Methods.md",
-    "09-Professional-Finance/🏛️-Corporate-Finance-Keuangan-Korporat.md",
-    "23-Traditional-Money-Banking/🏛️-Central-Banks-and-Monetary-Policy.md",
-    "08-Fintech-Innovation/💻-Fintech-Innovation-Digital-Assets-Guide.md",
-    "08-Fintech-Innovation/💻-Fintech-Innovation-Digital-Assets-Guide.md.tmp.16612.1758592283301",
-    "08-Fintech-Innovation",
-    "20-Wealth-Management/🏛️-Wealth-Management-Family-Office-Guide.md",
-    "20-Wealth-Management/🏛️-Wealth-Management-Family-Office-Guide.md.tmp.16612.1758576806122",
-    "20-Wealth-Management",
-    "19-Global-Stock-Markets/🌍-Global-Macro-Investment-Strategies.md",
-    "19-Global-Stock-Markets/🌍-Global-Macro-Investment-Strategies.md.tmp.16612.1758576195228",
-    "14-Corporate-Finance/📊-Advanced-Derivatives-Options-Trading.md",
-    "14-Corporate-Finance/📊-Advanced-Derivatives-Options-Trading.md.tmp.16612.1758576085603",
-    "17-Sustainable-Finance/💚-Sustainable-ESG-Investing.md",
-    "17-Sustainable-Finance/💚-Sustainable-ESG-Investing.md.tmp.16612.1758575871807",
-    "13-Quantitative-Finance/🔢-Quantitative-Finance-Strategies.md",
-    "13-Quantitative-Finance/🔢-Quantitative-Finance-Strategies.md.tmp.16612.1758575729672",
-    "16-Advanced-Analysis/📈-Advanced-Technical-Analysis-Indonesia.md",
-    "16-Advanced-Analysis/📈-Advanced-Technical-Analysis-Indonesia.md.tmp.16612.1758575624544",
-    "19-Global-Stock-Markets/🇮🇩-Indonesian-Market-Strategies.md",
-    "25-Commodity-Markets/🎨-Soft-Commodities-Trading.md",
-    "25-Commodity-Markets/⚙️-Base-Metals-Industrial-Minerals.md",
-    "09-Professional-Finance/📊-Portfolio-Management-Strategies.md",
-    "16-Advanced-Analysis/🔮-Economic-Indicator-Analysis.md",
-    "09-Professional-Finance/📊-Financial-Statement-Analysis.md",
-    "11-Traditional-Finance/📋-Daftar-Isi-Traditional-Finance.md",
-    "06-Trading-Investment/💼-Trading-Crypto-Biar-Cuan.md",
-    "25-Commodity-Markets/⚡-Electricity-and-Power-Markets.md",
-    "06-Trading-Investment/🎯-Advanced-Trading-Strategies-2025.md",
-    "16-Research-Methods/📋-Daftar-Isi-Research-Methods.md",
+    "01-TRADITIONAL-FINANCE/23-Money-Banking/🏛️-Financial-Regulation-and-Compliance.md",
+    "01-TRADITIONAL-FINANCE/23-Money-Banking/🏛️-Financial-Regulation-and-Compliance.md.tmp.16612.1758605756374",
+    "📁-FILE-STRUCTURE-OVERVIEW.md",
+    "CLAUDE.md",
+    "04-PROFESSIONAL-FINANCE/15-Financial-Education/🎓-Financial-Literacy-101.md",
+    "04-PROFESSIONAL-FINANCE/15-Financial-Education/🎓-Financial-Literacy-101.md.tmp.16612.1758605667684",
+    "04-PROFESSIONAL-FINANCE/11-Traditional-Finance/💼-Traditional-Finance-101.md",
+    "04-PROFESSIONAL-FINANCE/11-Traditional-Finance/💼-Traditional-Finance-101.md.tmp.16612.1758605474531",
+    "03-GLOBAL-MARKETS/19-Global-Stock-Markets/🇺🇸-US-Stock-Market-Complete-Guide.md",
+    "03-GLOBAL-MARKETS/19-Global-Stock-Markets/🇺🇸-US-Stock-Market-Complete-Guide.md.tmp.16612.1758605325277",
+    "00-MAIN-DOCS/📚-Crypto-Knowledge-Base-Index.md",
+    "00-MAIN-DOCS/2025-09-23.md",
+    "00-MAIN-DOCS/🌐-Enhanced-File-Structure.md",
+    "00-MAIN-DOCS/2025-09-23.md.tmp.16612.1758604789749",
+    "CLAUDE.md.tmp.16612.1758598557590",
+    "CLAUDE.md.tmp.16612.1758598555334",
+    "CLAUDE.md.tmp.16612.1758598552584",
+    "CLAUDE.md.tmp.16612.1758598549442",
+    "CLAUDE.md.tmp.16612.1758598544519",
+    "00-MAIN-DOCS/Untitled.canvas",
+    "🌐-Enhanced-File-Structure.md",
+    "00-MAIN-DOCS/🌐-Wiki-Structure-Crypto-Indonesia.md",
+    "00-MAIN-DOCS/🌐-Main-Category-Overview.md",
+    "05-ADVANCED-ANALYSIS/20-Wealth-Management/🏛️-Wealth-Management-Family-Office-Guide.md",
+    "05-ADVANCED-ANALYSIS/17-Sustainable-Finance/📋-Daftar-Isi-Sustainable-Finance.md",
+    "05-ADVANCED-ANALYSIS/17-Sustainable-Finance/💚-Sustainable-ESG-Investing.md",
+    "05-ADVANCED-ANALYSIS/16-Research-Methods/📋-Daftar-Isi-Research-Methods.md",
+    "05-ADVANCED-ANALYSIS/16-Advanced-Analysis/🔮-Economic-Indicator-Analysis.md",
+    "05-ADVANCED-ANALYSIS/16-Advanced-Analysis/📈-Advanced-Technical-Analysis-Indonesia.md",
+    "05-ADVANCED-ANALYSIS/16-Advanced-Analysis/🌍-Global-Macro-and-Forex.md",
+    "05-ADVANCED-ANALYSIS/09-Professional-Finance/📊-Portfolio-Management-Strategies.md",
+    "05-ADVANCED-ANALYSIS/09-Professional-Finance/📊-Financial-Statement-Analysis.md",
+    "05-ADVANCED-ANALYSIS/09-Professional-Finance/💼-Risk-Management-Techniques.md",
+    "05-ADVANCED-ANALYSIS/09-Professional-Finance/💼-Investment-Analysis-Methods.md",
+    "05-ADVANCED-ANALYSIS/09-Professional-Finance/🏛️-Corporate-Finance-Keuangan-Korporat.md",
+    "05-ADVANCED-ANALYSIS/08-Fintech-Innovation/💻-Fintech-Innovation-Digital-Assets-Guide.md",
+    "04-PROFESSIONAL-FINANCE/15-Financial-Education/📋-Daftar-Isi-Financial-Education.md",
     "Untitled.canvas"
   ]
 }

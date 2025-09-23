@@ -1,4 +1,4 @@
-# 🔮 Economic Indicator Analysis
+l# 🔮 Economic Indicator Analysis
 
 **Analisis indikator ekonomi: leading, lagging, coincident dengan studi kasus perekonomian Indonesia**
 
