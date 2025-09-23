@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25-Commodity-Markets/📊-Commodity-Trading-Strategies.md",
+                "file": "📚-Crypto-Knowledge-Base-Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📊-Commodity-Trading-Strategies"
+              "title": "📚-Crypto-Knowledge-Base-Index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25-Commodity-Markets/📊-Commodity-Trading-Strategies.md",
+                "file": "📚-Crypto-Knowledge-Base-Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 📊-Commodity-Trading-Strategies"
+              "title": "Backlinks for 📚-Crypto-Knowledge-Base-Index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25-Commodity-Markets/📊-Commodity-Trading-Strategies.md",
+                "file": "📚-Crypto-Knowledge-Base-Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 📊-Commodity-Trading-Strategies"
+              "title": "Outgoing links from 📚-Crypto-Knowledge-Base-Index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "25-Commodity-Markets/📊-Commodity-Trading-Strategies.md",
+                "file": "📚-Crypto-Knowledge-Base-Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📊-Commodity-Trading-Strategies"
+              "title": "Outline of 📚-Crypto-Knowledge-Base-Index"
             }
           },
           {
@@ -183,6 +183,9 @@
   },
   "active": "26e908bdf4b9ce00",
   "lastOpenFiles": [
+    "16-Advanced-Analysis/🌍-Global-Macro-and-Forex.md",
+    "25-Commodity-Markets/📊-Commodity-Trading-Strategies.md",
+    "06-Trading-Investment/💼-Trading-Crypto-Biar-Cuan.md.tmp.16612.1758592820073",
     "🌐-Main-Category-Overview.md",
     "23-Traditional-Money-Banking/📋-Daftar-Isi-Traditional-Money-Banking.md",
     "09-Professional-Finance/💼-Risk-Management-Techniques.md",
@@ -206,11 +209,9 @@
     "16-Advanced-Analysis/📈-Advanced-Technical-Analysis-Indonesia.md",
     "16-Advanced-Analysis/📈-Advanced-Technical-Analysis-Indonesia.md.tmp.16612.1758575624544",
     "19-Global-Stock-Markets/🇮🇩-Indonesian-Market-Strategies.md",
-    "19-Global-Stock-Markets/🇮🇩-Indonesian-Market-Strategies.md.tmp.16612.1758575477894",
     "25-Commodity-Markets/🎨-Soft-Commodities-Trading.md",
     "25-Commodity-Markets/⚙️-Base-Metals-Industrial-Minerals.md",
     "09-Professional-Finance/📊-Portfolio-Management-Strategies.md",
-    "16-Advanced-Analysis/🌍-Global-Macro-and-Forex.md",
     "16-Advanced-Analysis/🔮-Economic-Indicator-Analysis.md",
     "09-Professional-Finance/📊-Financial-Statement-Analysis.md",
     "11-Traditional-Finance/📋-Daftar-Isi-Traditional-Finance.md",
@@ -218,7 +219,6 @@
     "25-Commodity-Markets/⚡-Electricity-and-Power-Markets.md",
     "06-Trading-Investment/🎯-Advanced-Trading-Strategies-2025.md",
     "16-Research-Methods/📋-Daftar-Isi-Research-Methods.md",
-    "25-Commodity-Markets/📋-Daftar-Isi-Commodity-Markets.md",
     "Untitled.canvas"
   ]
 }
