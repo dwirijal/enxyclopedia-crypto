@@ -60,11 +60,16 @@
 ├── 02-Blockchain-Technology/              # Blockchain technology
 ├── 03-Cryptocurrency-Deep-Dive/          # Cryptocurrency ecosystems
 ├── 04-DeFi-Web3-Ecosystem/               # DeFi & Web3
+│   ├── 🌉-Bridge-Guide-Lengkap.md         # Complete cross-chain bridge guide
+│   └── [existing DeFi files...]
 ├── 05-Gaming-NFT-Universe/               # Gaming & NFT
 ├── 06-Trading-Investment/                # Trading & investment
 ├── 07-Global-Impact-Economics/           # Global impact
 ├── 08-Security-Risk-Management/         # Security & risk
 ├── 09-Advanced-Topics/                  # Advanced topics
+│   ├── 🌱-DePIN-Decentralized-Physical-Infrastructure-Guide.md  # DePIN ecosystem guide
+│   ├── 🤖-AI-Crypto-Integration-Guide-Lengkap.md              # AI + crypto integration
+│   └── [existing advanced topics files...]
 ├── 10-Practical-Tutorials/               # Practical tutorials
 └── 18-Indonesia-Specific/                # Indonesia-specific content
 ```
@@ -170,4 +175,10 @@
 - Links are structured to work across the entire knowledge base
 
 **Last Updated**: September 23, 2025
+**Recent Additions**:
+- 🌉-Bridge-Guide-Lengkap.md (Complete cross-chain bridge tutorial)
+- 🤖-AI-Crypto-Integration-Guide-Lengkap.md (AI + crypto convergence)
+- 🏢-Real-World-Assets-RWA-Tokenization-Guide.md (RWA fundamentals)
+- 🌱-DePIN-Decentralized-Physical-Infrastructure-Guide.md (DePIN ecosystem)
+
 **Next Steps**: Continue adding content following the established structure
