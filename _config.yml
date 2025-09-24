@@ -15,10 +15,7 @@ permalink: pretty
 
 # Theme settings
 # theme: minima # Using custom layout instead
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+# Plugins are included in github-pages gem
 
 # GitHub Pages specific settings
 lsi: false

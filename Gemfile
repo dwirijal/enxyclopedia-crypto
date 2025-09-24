@@ -1,10 +1,7 @@
 source 'https://rubygems.org'
 
-# GitHub Pages compatible gems
-gem 'github-pages', '~> 228', group: :jekyll_plugins
-gem 'jekyll-feed', '~> 0.17'
-gem 'jekyll-sitemap', '~> 1.4'
-gem 'jekyll-seo-tag', '~> 2.8'
+# GitHub Pages gem includes all necessary plugins
+gem 'github-pages', group: :jekyll_plugins
 
 # Development gems (not needed on GitHub Pages)
 group :development do

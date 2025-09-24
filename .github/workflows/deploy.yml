@@ -42,14 +42,13 @@ jobs:
       - name: Install dependencies
         run: |
           gem install bundler
-          bundle install --jobs 4 --retry 3
+          bundle install --jobs 4 --retry 3 --verbose
 
       - name: Build with Jekyll
         run: |
-          bundle exec jekyll build --verbose --trace
+          bundle exec jekyll build --verbose
         env:
           JEKYLL_ENV: production
-          PAGES_ENV: production
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
