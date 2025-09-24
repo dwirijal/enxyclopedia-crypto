@@ -4,6 +4,15 @@
 
 ---
 
+## 🆕 Updated Structure Information
+
+As of September 23, 2025, we've implemented a refactored file structure to improve organization and navigation. 
+For the complete refactored structure, see: [[📁-REFactORED-FILE-STRUCTURE.md]]
+
+This document represents the original structure. For the most current organization, please refer to the refactored version.
+
+---
+
 ## 🏗️ Complete Directory Structure
 
 ```
@@ -21,7 +30,41 @@
 
 ---
 
-## 📂 Detailed Structure Breakdown
+## 📂 Final Enhanced Structure Breakdown
+
+### **🏗️ 5 Major Thematic Domains**
+
+#### **🏛️ DOMAIN 1: TRADITIONAL FINANCE SYSTEMS**
+- **Overview**: [[🏛️-TRADITIONAL-FINANCE-DOMAIN-OVERVIEW]]
+- **Categories**: 3 (Money & Banking, Forex, Commodities)
+- **Subcategories**: 12
+- **Articles**: 35+ (37% complete)
+
+#### **💰 DOMAIN 2: CRYPTOCURRENCY & BLOCKCHAIN ECOSYSTEM**
+- **Overview**: [[💰-CRYPTOCURRENCY-BLOCKCHAIN-DOMAIN-OVERVIEW]]
+- **Categories**: 11 (Fundamentals to Indonesia-Specific)
+- **Subcategories**: 44
+- **Articles**: 164+ (38% complete)
+
+#### **📈 DOMAIN 3: GLOBAL FINANCIAL MARKETS**
+- **Overview**: [[📈-GLOBAL-FINANCIAL-MARKETS-DOMAIN-OVERVIEW]]
+- **Categories**: 4 (Stock Markets to Macroeconomic Analysis)
+- **Subcategories**: 18
+- **Articles**: 83+ (16% complete)
+
+#### **🎓 DOMAIN 4: PROFESSIONAL FINANCE**
+- **Overview**: [[🎓-PROFESSIONAL-FINANCE-DOMAIN-OVERVIEW]]
+- **Categories**: 5 (Traditional Finance to Financial Education)
+- **Subcategories**: 20
+- **Articles**: 75+ (9% complete)
+
+#### **🔍 DOMAIN 5: ADVANCED ANALYSIS & RESEARCH**
+- **Overview**: [[🔍-ADVANCED-ANALYSIS-DOMAIN-OVERVIEW]]
+- **Categories**: 5 (Research Methods to Wealth Management)
+- **Subcategories**: 20
+- **Articles**: 68+ (7% complete)
+
+---
 
 ### **📄 00-MAIN-DOCS/** - Main Documentation
 ```

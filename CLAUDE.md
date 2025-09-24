@@ -15,49 +15,55 @@ This is a comprehensive Indonesian-language financial markets knowledge base bui
 
 ## 📁 Repository Structure
 
-### Enhanced Hierarchical Organization (2025)
+### Non-Duplicated Hierarchical Organization (Updated September 2025)
 ```
 📁 Financial Markets Knowledge Base/
 ├── 📄 00-MAIN-DOCS/                    # Main documentation and navigation
 │   ├── 🌐-Enhanced-File-Structure.md     # Enhanced structure documentation
 │   ├── 🌐-Main-Category-Overview.md      # Main navigation hub
-│   ├── 🌐-Wiki-Structure-Crypto-Indonesia.md # Complete wiki structure
-│   └── 📚-Crypto-Knowledge-Base-Index.md  # Knowledge base index
+│   ├── 📚-Crypto-Knowledge-Base-Index.md  # Knowledge base index
+│   └── 📋-Daftar-Isi-Lengkap-Knowledge-Base.md # Complete table of contents
 ├── 🏛️ 01-TRADITIONAL-FINANCE/         # Traditional finance systems (3 categories)
-│   ├── 23-Money-Banking/                 # Money & banking fundamentals
-│   ├── 24-Forex-Markets/                 # Foreign exchange markets
-│   └── 25-Commodity-Markets/             # Commodity markets
+│   ├── 01-Money-Banking/                # Money & banking fundamentals
+│   ├── 02-Forex-Markets/                # Foreign exchange markets
+│   └── 03-Commodity-Markets/            # Commodity markets
 ├── 💰 02-CRYPTO-BLOCKCHAIN/            # Crypto & blockchain ecosystem (11 categories)
-│   ├── 01-Fundamentals/                  # Crypto basics
-│   ├── 02-Blockchain-Technology/          # Technical foundations
-│   ├── 03-Cryptocurrency-Deep-Dive/      # Crypto ecosystems
-│   ├── 04-DeFi-Web3-Ecosystem/           # DeFi & Web3
-│   ├── 05-Gaming-NFT-Universe/           # NFT & gaming
-│   ├── 06-Trading-Investment/            # Trading strategies
-│   ├── 07-Global-Impact-Economics/       # Global impact
-│   ├── 08-Security-Risk-Management/     # Security & risk
-│   ├── 09-Advanced-Topics/              # Advanced concepts
-│   ├── 10-Practical-Tutorials/          # Step-by-step guides
-│   └── 18-Indonesia-Specific/           # Local market focus
+│   ├── 01-Fundamentals/                 # Crypto basics
+│   ├── 02-Blockchain-Technology/       # Technical foundations
+│   ├── 03-Cryptocurrency-Analysis/     # Crypto ecosystems (renamed)
+│   ├── 04-DeFi-Web3/                   # DeFi & Web3 (simplified)
+│   ├── 05-Gaming-NFT/                  # NFT & gaming (simplified)
+│   ├── 06-Trading-Investment/           # Trading strategies
+│   ├── 07-Market-Economics/            # Market economics (renamed)
+│   ├── 08-Security-Risk/               # Security & risk (simplified)
+│   ├── 09-Advanced-Topics/             # Advanced concepts
+│   ├── 10-Indonesia-Specific/          # Local market focus (renumbered)
+│   └── 11-Practical-Tutorials/         # Step-by-step guides (renumbered)
 ├── 📈 03-GLOBAL-MARKETS/              # Global financial markets (4 categories)
-│   ├── 19-Global-Stock-Markets/         # International stock exchanges
-│   ├── 20-Industry-Analysis-Sectors/      # Sector analysis
-│   ├── 21-Institutional-Sovereign-Wealth/ # Institutional finance
-│   └── 22-Macroeconomic-Analysis/        # Economic analysis
+│   ├── 01-Stock-Markets/               # International stock exchanges (renumbered)
+│   ├── 02-Industry-Sectors/             # Sector analysis (renumbered)
+│   ├── 03-Institutional-Finance/        # Institutional finance (renumbered)
+│   └── 04-Macroeconomics/              # Economic analysis (maintained)
 ├── 🎓 04-PROFESSIONAL-FINANCE/         # Professional finance (5 categories)
-│   ├── 11-Traditional-Finance/          # Traditional finance concepts
-│   ├── 12-Professional-Trading/         # Professional trading
-│   ├── 13-Quantitative-Finance/         # Quantitative methods
-│   ├── 14-Corporate-Finance/           # Corporate finance
-│   └── 15-Financial-Education/          # Financial literacy
-└── 🔍 05-ADVANCED-ANALYSIS/            # Advanced analysis (6 categories)
-    ├── 08-Fintech-Innovation/            # Financial technology
-    ├── 09-Professional-Finance/          # Professional topics
-    ├── 16-Advanced-Analysis/             # Advanced methodologies
-    ├── 16-Research-Methods/              # Research techniques
-    ├── 17-Sustainable-Finance/           # ESG investing
-    └── 20-Wealth-Management/            # Wealth management
+│   ├── 01-Financial-Theory/            # Finance concepts (renamed)
+│   ├── 02-Advanced-Trading/             # Professional trading (maintained)
+│   ├── 03-Quantitative-Methods/         # Mathematical finance (renamed)
+│   ├── 04-Corporate-Finance/            # Business finance (maintained)
+│   └── 05-Financial-Education/          # Financial literacy (maintained)
+└── 🔍 05-ADVANCED-ANALYSIS/            # Advanced analysis (5 categories)
+    ├── 01-Fintech-Innovation/          # Financial technology (renumbered)
+    ├── 02-Research-Methods/            # Analytical techniques (consolidated)
+    ├── 03-Advanced-Strategies/         # Sophisticated strategies (renamed)
+    ├── 04-Sustainable-Finance/          # ESG investing (renumbered)
+    └── 05-Wealth-Management/            # Portfolio management (renumbered)
 ```
+
+### Key Structure Improvements (September 2025)
+- **Eliminated Duplicates**: Removed overlapping "Professional Finance" and "Research Methods" categories
+- **Sequential Numbering**: All categories now use 01-XX numbering without gaps
+- **Consistent Naming**: Simplified category names (e.g., "DeFi-Web3" instead of "DeFi-Web3-Ecosystem")
+- **Clear Separation**: Each category has unique purpose and scope
+- **Better Navigation**: Updated table of contents files reflect new structure
 
 ## 🔧 Technical Architecture
 
@@ -69,17 +75,48 @@ This is a comprehensive Indonesian-language financial markets knowledge base bui
 - **Enhanced Structure**: Parent-child relationships with metadata templates
 - **Graph View Optimization**: Clear hierarchical relationships for visualization
 
-### Backup System
+### Development Commands & Workflow
 ```bash
-# Automated backup via backup.sh
-# Commits changes with timestamps
-# Ensures version control for all content
+# Automated backup (currently missing - needs to be created)
+./backup.sh    # Commit changes with timestamps
+./backup.bat    # Windows version
+
+# Git operations for manual management
+git status      # Check modified files
+git add .       # Stage all changes
+git commit -m "Update: [description]" # Manual commit
+git push        # Push to remote (if configured)
+
+# Content verification
+find . -name "*.md" | wc -l    # Count total markdown files
+find . -name "*.md" -exec grep -l "[[" {} \; | wc -l  # Count files with internal links
 ```
 
 ### Key Configuration Files
 - **.obsidian/community-plugins.json**: Git integration enabled
-- **backup.sh**: Automated git commit system
+- **.obsidian/core-plugins.json**: Core Obsidian features configuration
+- **.obsidian/workspace.json**: Workspace layout and settings
+- **backup.sh/backup.bat**: Automated git commit system (to be created)
 - **All content**: Markdown files with Indonesian text
+
+### Obsidian Plugin Configuration
+**Enabled Community Plugins:**
+- `obsidian-git`: Git integration for version control
+- `obsidian-excalidraw-plugin`: Diagram and visual content creation
+
+**Enabled Core Plugins:**
+- `file-explorer`, `global-search`, `switcher`, `graph`, `backlink`
+- `canvas`, `templates`, `command-palette`, `outline`, `word-count`
+- `bookmarks`, `daily-notes`, `note-composer`, `page-preview`
+
+### Backup System (To Be Implemented)
+```bash
+# Required: Create backup.sh script with:
+# - Git add/commit automation
+# - Timestamp-based commit messages
+# - Regular backup scheduling
+# - Conflict resolution handling
+```
 
 ## 🎨 Content Style & Standards
 
@@ -105,14 +142,29 @@ This is a comprehensive Indonesian-language financial markets knowledge base bui
 
 ## 🛠️ Working Guidelines
 
+### Content Creation Architecture
+This knowledge base follows a **hierarchical knowledge architecture** with clear separation of concerns:
+
+1. **Domain Level** (5 main domains): Broad financial market areas
+2. **Category Level** (27 subcategories): Specialized topics within domains
+3. **Article Level**: Specific educational content with practical examples
+4. **Cross-References**: Extensive `[[file-name]]` linking for knowledge discovery
+
 ### When Adding New Content
-1. **Check Enhanced Structure**: Update `🌐-Enhanced-File-Structure.md` first
-2. **Follow Hierarchical Categories**: Use the 5-main-domain structure
+1. **Check Non-Duplicated Structure**: Review `📁-ENHANCED-NON-DUPLICATED-STRUCTURE.md` first
+2. **Follow Sequential Numbering**: Use 01-XX format within each domain
 3. **Check Category Overview**: Review `🌐-Main-Category-Overview.md` for placement
-4. **Maintain Links**: Add cross-references to related topics
-5. **Update Index**: Modify `📚-Crypto-Knowledge-Base-Index.md` if needed
-6. **Use Indonesian**: Write all content in casual Indonesian
-7. **Apply Metadata**: Use parent-child relationships and enhanced linking
+4. **Maintain Links**: Add cross-references to related topics using `[[file-name]]` format
+5. **Update Navigation**: Modify relevant table of contents files
+6. **Use Indonesian**: Write all content in casual Indonesian (bahasa sehari-hari)
+7. **Apply Enhanced Structure**: Use parent-child relationships and metadata
+
+### Content Architecture Patterns
+- **Learning Progression**: Each domain progresses from beginner to advanced concepts
+- **Practical Examples**: Include real-world Indonesian market examples
+- **Current Data**: Reference 2025 market conditions and trends
+- **Cross-Domain Links**: Connect related concepts across different domains
+- **Graph Optimization**: Create content that visualizes well in Obsidian graph view
 
 ### Content Creation Rules
 - **Prioritize Indonesian**: All content must be in Indonesian
@@ -154,58 +206,72 @@ Edit 📁-FILE-STRUCTURE-OVERVIEW.md
 # The backup.sh script handles this
 ```
 
+### Quality Assurance & Validation
+```bash
+# Link validation (manual process)
+grep -r "\[\[.*\]\]" . --include="*.md" | cut -d: -f2 | sort | uniq -c  # Find broken links
+find . -name "*.md" -exec grep -L "\[\[.*\]\]" {} \;  # Find files without internal links
+
+# Content structure verification
+find . -name "*.md" -exec head -5 {} \; | grep -E "(# 🎯|# 🏛️|# 💰|# 📈|# 🔍)"  # Verify header structure
+find . -name "*.md" -exec wc -l {} \; | sort -n  # Identify very short files that may need expansion
+
+# Graph view optimization
+find . -name "*.md" -exec grep -c "\[\[.*\]\]" {} \; | sort -n  # Find well-connected vs isolated files
+```
+
 ### Quality Checks
-- **Language**: All content must be in Indonesian
-- **Links**: Verify all `[[file-name]]` links are valid
-- **Structure**: Follow 5-main-domain hierarchical organization
-- **Placement**: Ensure content is in correct subcategory
+- **Language**: All content must be in Indonesian (bahasa Indonesia)
+- **Links**: Verify all `[[file-name]]` links are valid and functional
+- **Structure**: Follow 5-main-domain hierarchical organization with sequential numbering
+- **Placement**: Ensure content is in correct subcategory (no duplicates)
 - **Metadata**: Apply parent-child relationships consistently
 - **Relevance**: Content should match 2025 financial markets landscape
-- **Completeness**: Cover topics comprehensively
+- **Completeness**: Cover topics comprehensively with practical examples
 - **Graph View**: Verify relationships display correctly in Obsidian graph
+- **Cross-References**: Each article should link to related topics in other domains
 
 ## 📊 Current Content Scope
 
-### 5 Main Domains with 27 Subcategories
+### 5 Main Domains with 27 Subcategories (Non-Duplicated Structure)
 
 #### **🏛️ Traditional Finance (3 subcategories)**
-1. **Money & Banking** - Traditional finance systems
-2. **Forex Markets** - Foreign exchange trading
-3. **Commodity Markets** - Energy, metals, agricultural trading
+1. **01-Money-Banking** - Traditional finance systems and monetary policy
+2. **02-Forex-Markets** - Foreign exchange trading and currency analysis
+3. **03-Commodity-Markets** - Energy, metals, agricultural trading
 
 #### **💰 Cryptocurrency & Blockchain (11 subcategories)**
-1. **Fundamentals** - Basic crypto concepts
-2. **Blockchain Technology** - Technical foundations
-3. **Cryptocurrency Deep Dive** - Specific crypto analysis
-4. **DeFi & Web3 Ecosystem** - DeFi protocols and applications
-5. **Gaming & NFT Universe** - NFTs and gaming
-6. **Trading & Investment** - Trading strategies and analysis
-7. **Global Impact & Economics** - Market economics
-8. **Security & Risk Management** - Security practices
-9. **Advanced Topics** - Specialized advanced content
-10. **Practical Tutorials** - Hands-on guides
-11. **Indonesia-Specific** - Local market focus
+1. **01-Fundamentals** - Basic crypto concepts and blockchain introduction
+2. **02-Blockchain-Technology** - Technical foundations and consensus mechanisms
+3. **03-Cryptocurrency-Analysis** - Specific crypto ecosystems and analysis
+4. **04-DeFi-Web3** - DeFi protocols and Web3 applications
+5. **05-Gaming-NFT** - NFTs, gaming, and metaverse ecosystems
+6. **06-Trading-Investment** - Crypto trading strategies and market analysis
+7. **07-Market-Economics** - Market dynamics and economic impact
+8. **08-Security-Risk** - Security practices and risk management
+9. **09-Advanced-Topics** - Specialized advanced concepts and future trends
+10. **10-Indonesia-Specific** - Local market focus and Indonesian context
+11. **11-Practical-Tutorials** - Step-by-step guides and hands-on tutorials
 
 #### **📈 Global Markets (4 subcategories)**
-1. **Global Stock Markets** - International stock exchanges
-2. **Industry Analysis** - Sector analysis
-3. **Institutional Finance** - Sovereign wealth, institutional trading
-4. **Macroeconomic Analysis** - Economic analysis
+1. **01-Stock-Markets** - International stock exchanges and global equity
+2. **02-Industry-Sectors** - Sector analysis and industry-specific insights
+3. **03-Institutional-Finance** - Sovereign wealth and institutional trading
+4. **04-Macroeconomics** - Economic analysis and policy impacts
 
 #### **🎓 Professional Finance (5 subcategories)**
-1. **Traditional Finance** - Finance concepts
-2. **Professional Trading** - Advanced trading techniques
-3. **Quantitative Finance** - Mathematical finance methods
-4. **Corporate Finance** - Business finance
-5. **Financial Education** - Financial literacy
+1. **01-Financial-Theory** - Finance concepts and theoretical frameworks
+2. **02-Advanced-Trading** - Professional trading techniques and strategies
+3. **03-Quantitative-Methods** - Mathematical finance and quantitative analysis
+4. **04-Corporate-Finance** - Business finance and corporate financial management
+5. **05-Financial-Education** - Financial literacy and educational content
 
-#### **🔍 Advanced Analysis (6 subcategories)**
-1. **Fintech Innovation** - Financial technology
-2. **Professional Finance** - Advanced professional topics
-3. **Advanced Analysis** - Research methodologies
-4. **Research Methods** - Analytical techniques
-5. **Sustainable Finance** - ESG investing
-6. **Wealth Management** - Portfolio management
+#### **🔍 Advanced Analysis (5 subcategories)**
+1. **01-Fintech-Innovation** - Financial technology and digital innovation
+2. **02-Research-Methods** - Analytical techniques and research methodologies
+3. **03-Advanced-Strategies** - Sophisticated investment and analysis strategies
+4. **04-Sustainable-Finance** - ESG investing and sustainable finance
+5. **05-Wealth-Management** - Portfolio management and wealth preservation
 
 ### Key Metrics (2025)
 - **Total Files**: 1500+ potential articles across 27 subcategories
@@ -277,30 +343,35 @@ Edit 📁-FILE-STRUCTURE-OVERVIEW.md
 ## 🚀 Quick Start for New Claude Instances
 
 ### First Steps
-1. **Read Enhanced Structure**: Understand the 5-main-domain organization
-2. **Check Main Category Overview**: Review the navigation hub
-3. **Check File Structure Overview**: Understand the directory layout
-4. **Sample Content**: Read a few existing guides to understand style
-5. **Current Topics**: Review what's already covered in each subcategory
+1. **Read Non-Duplicated Structure**: Understand the updated 5-main-domain organization in `📁-ENHANCED-NON-DUPLICATED-STRUCTURE.md`
+2. **Check Main Category Overview**: Review the navigation hub in `🌐-Main-Category-Overview.md`
+3. **Verify Current Structure**: Check recent implementation in `🚀-STRUCTURE-IMPLEMENTATION-COMPLETE.md`
+4. **Sample Content**: Read existing guides to understand Indonesian writing style and structure
+5. **Current Coverage**: Review what's already covered in each subcategory to avoid duplicates
 
 ### When Adding Content
-1. **Choose Main Domain**: Select appropriate domain from the 5 main categories
-2. **Select Subcategory**: Pick appropriate subcategory within the domain
-3. **Check Duplicates**: Ensure topic isn't already covered
-4. **Update Enhanced Structure**: Add to enhanced structure document first
-5. **Update Category Overview**: Modify main category overview if needed
-6. **Create Content**: Write in casual Indonesian with proper metadata
-7. **Add Enhanced Links**: Use parent-child relationships and `[[file-name#section]]` links
+1. **Choose Main Domain**: Select from the 5 main domains (Traditional Finance, Crypto, Global Markets, Professional Finance, Advanced Analysis)
+2. **Select Subcategory**: Pick appropriate sequential-numbered subcategory (01-XX format)
+3. **Check for Duplicates**: Ensure topic isn't already covered in any domain
+4. **Update Structure Documentation**: Add to `📁-ENHANCED-NON-DUPLICATED-STRUCTURE.md` if creating new categories
+5. **Update Navigation**: Modify relevant table of contents files
+6. **Create Content**: Write in casual Indonesian (bahasa sehari-hari) with proper emoji headers
+7. **Add Cross-References**: Use extensive `[[file-name]]` linking to related topics across domains
 
-### Important Reminders
-- **Indonesian Only**: All content must be in Indonesian
-- **Casual Tone**: Use friendly, approachable language
-- **Practical Focus**: Prioritize useful, actionable knowledge
-- **Current Data**: Reference 2025 financial markets landscape
-- **Link Everything**: Use extensive internal linking with enhanced structure
-- **Follow Hierarchy**: Maintain 5-main-domain organization
-- **Metadata**: Apply parent-child relationships consistently
-- **Graph Optimization**: Create content that visualizes well in Obsidian graph
+### Critical Architecture Rules
+- **NO DUPLICATE CATEGORIES**: Each category must have unique purpose and scope
+- **SEQUENTIAL NUMBERING**: Use 01-XX format within each domain (no gaps)
+- **INDONESIAN LANGUAGE ONLY**: All content must be in bahasa Indonesia
+- **CROSS-DOMAIN LINKING**: Connect related concepts across different domains
+- **GRAPH OPTIMIZATION**: Create content that visualizes well in Obsidian graph view
+- **PRACTICAL FOCUS**: Prioritize actionable knowledge for Indonesian market context
+
+### Content Quality Standards
+- **Current Data**: Reference 2025 financial markets landscape and trends
+- **Local Context**: Include Indonesian market examples and regulatory context
+- **Learning Progression**: Structure content from beginner to advanced within each domain
+- **Visual Organization**: Use emoji prefixes and clear section headers
+- **Link Density**: Each article should link to 3-5 related topics
 
 ---
 

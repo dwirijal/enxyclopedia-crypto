@@ -9,25 +9,25 @@
 **11 Subkategori** - Ekosistem lengkap dari dasar blockchain hingga advanced topics
 
 ```
-📁 02-CRYPTO-BLOCKCHAIN/
+📁 02-CRYPTO-BLOCKCHAIN/ (NON-DUPLICATED STRUCTURE)
 ├── 01-Fundamentals/             # Dasar-dasar kripto
 ├── 02-Blockchain-Technology/     # Teknologi blockchain
-├── 03-Cryptocurrency-Deep-Dive/ # Ekosistem kripto
-├── 04-DeFi-Web3-Ecosystem/      # DeFi dan Web3
-├── 05-Gaming-NFT-Universe/      # Gaming dan NFT
+├── 03-Cryptocurrency-Analysis/  # Analisis kripto (reorganized)
+├── 04-DeFi-Web3/                # DeFi dan Web3 (simplified)
+├── 05-Gaming-NFT/               # Gaming dan NFT (simplified)
 ├── 06-Trading-Investment/       # Trading dan investasi
-├── 07-Global-Impact-Economics/  # Dampak global
-├── 08-Security-Risk-Management/# Keamanan dan risiko
+├── 07-Market-Economics/        # Ekonomi pasar (reorganized)
+├── 08-Security-Risk/            # Keamanan dan risiko (simplified)
 ├── 09-Advanced-Topics/          # Topik lanjutan
-├── 10-Practical-Tutorials/      # Tutorial praktis
-└── 18-Indonesia-Specific/       # Konteks Indonesia
+├── 10-Indonesia-Specific/      # Konteks Indonesia (renumbered)
+└── 11-Practical-Tutorials/      # Tutorial praktis (renumbered)
 ```
 
 ---
 
 ## 📦 Subkategori Details
 
-### 🔍 **01-Fundamentals** - Dasar-dasar Kripto
+### 🔍 **01-Fundamentals** - Dasar-dasar Kripto (UPDATED STRUCTURE)
 ```
 📂 01-Fundamentals/
 ├── [File-file fundamental crypto...]            # Dasar-dasar cryptocurrency

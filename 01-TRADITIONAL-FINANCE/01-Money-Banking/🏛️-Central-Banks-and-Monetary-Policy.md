@@ -1,6 +1,6 @@
 # 🏛️ Central Banks and Monetary Policy
 
-**Bank sentral, kebijakan moneter, dan peran Bank Indonesia dalam ekonomi modern**
+**Panduan lengkap bank sentral dan kebijakan moneter: dari mekanisme operasional hingga dampak ekonomi**
 
 ---
 

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "34035259cb04b06a",
+    "id": "66dca872f1c1f2f8",
     "type": "split",
     "children": [
       {
-        "id": "44768e78c88f9116",
+        "id": "320b6f1c7340cac2",
         "type": "tabs",
         "children": [
           {
-            "id": "26e908bdf4b9ce00",
+            "id": "65d9b8ada54dea9e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,20 +23,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f6f829c49f0080fe",
+    "id": "bb3b06c593b3b55e",
     "type": "split",
     "children": [
       {
-        "id": "e1054c1681cbba6d",
+        "id": "130125feeaec2a34",
         "type": "tabs",
         "children": [
           {
-            "id": "7fd9cf06e6c729f2",
+            "id": "c588efab9a442fb7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "19cd14e6930c7ea3",
+            "id": "ebdd9be957a1cbce",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,7 +53,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "dc24866162d7f99d",
+            "id": "ca51bd79080308e6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,57 +74,56 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "right": {
-    "id": "66d8b75cc822e9c6",
+    "id": "555db0c88515c4b0",
     "type": "split",
     "children": [
       {
-        "id": "1f0ec1c8f68becdb",
+        "id": "9ee509bbb522f2aa",
         "type": "tabs",
         "children": [
           {
-            "id": "860afe2095cbd304",
+            "id": "f07e21973028b33b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CLAUDE"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "53d3169e0f579744",
+            "id": "fd01fa226df4f583",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Crypto Stuff/Bagaimana Cara Meningkatkan Win Rate Ketika Trading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CLAUDE"
+              "title": "Outgoing links from Bagaimana Cara Meningkatkan Win Rate Ketika Trading"
             }
           },
           {
-            "id": "5645aa3c921232b0",
+            "id": "954cbbe2b4a3fdcc",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -133,28 +132,28 @@
             }
           },
           {
-            "id": "8af9811b57cc96f1",
+            "id": "73e5a8628e0595d7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Crypto Stuff/Bagaimana Cara Meningkatkan Win Rate Ketika Trading.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CLAUDE"
+              "title": "Outline of Bagaimana Cara Meningkatkan Win Rate Ketika Trading"
             }
           },
           {
-            "id": "77913babe6ca2327",
+            "id": "99cc61cd6fe3d634",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "copilot-chat-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -162,62 +161,75 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false
+      "chat-with-bard:New Gemini Chat": false,
+      "github-sync:Sync with Remote": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "26e908bdf4b9ce00",
+  "active": "65d9b8ada54dea9e",
   "lastOpenFiles": [
-    "🛡️-Position-Sizing-in-Forex.md",
-    "02-CRYPTO-BLOCKCHAIN/03-Cryptocurrency-Deep-Dive/💰-Bitcoin-Guide-Lengkap.md",
-    "05-ADVANCED-ANALYSIS/📋-Daftar-Isi-Advanced-Analysis.md",
-    "05-ADVANCED-ANALYSIS/📋-Daftar-Isi-Advanced-Analysis.md.tmp.11700.1758625626349",
-    "04-PROFESSIONAL-FINANCE/📋-Daftar-Isi-Professional-Finance.md",
-    "04-PROFESSIONAL-FINANCE/📋-Daftar-Isi-Professional-Finance.md.tmp.11700.1758625585300",
-    "03-GLOBAL-MARKETS/📋-Daftar-Isi-Global-Markets.md",
-    "03-GLOBAL-MARKETS/📋-Daftar-Isi-Global-Markets.md.tmp.11700.1758625564223",
-    "02-CRYPTO-BLOCKCHAIN/📋-Daftar-Isi-Crypto-Blockchain.md",
-    "02-CRYPTO-BLOCKCHAIN/📋-Daftar-Isi-Crypto-Blockchain.md.tmp.11700.1758625540591",
-    "01-TRADITIONAL-FINANCE/📋-Daftar-Isi-Traditional-Finance.md",
-    "01-TRADITIONAL-FINANCE/📋-Daftar-Isi-Traditional-Finance.md.tmp.11700.1758625522033",
-    "00-MAIN-DOCS/📋-Daftar-Isi-Lengkap-Knowledge-Base.md",
-    "00-MAIN-DOCS/📋-Daftar-Isi-Lengkap-Knowledge-Base.md.tmp.11700.1758625438711",
-    "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625057918",
-    "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625055455",
-    "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625053449",
-    "📁-FILE-STRUCTURE-OVERVIEW.md.tmp.11700.1758625051010",
-    "02-CRYPTO-BLOCKCHAIN/09-Advanced-Topics/🌱-DePIN-Decentralized-Physical-Infrastructure-Guide.md",
-    "02-CRYPTO-BLOCKCHAIN/04-DeFi-Web3-Ecosystem/🌉-Bridge-Guide-Lengkap.md",
-    "04-DeFi-Web3-Ecosystem/🏢-Real-World-Assets-RWA-Tokenization-Guide.md",
-    "02-CRYPTO-BLOCKCHAIN/09-Advanced-Topics/🤖-AI-Crypto-Integration-Guide-Lengkap.md",
-    "04-PROFESSIONAL-FINANCE/12-Professional-Trading/🏛️-Institutional-Trading-Strategies.md",
-    "02-CRYPTO-BLOCKCHAIN/10-Practical-Tutorials/🛠️-Setup-Wallet-Tutorial.md",
-    "02-CRYPTO-BLOCKCHAIN/08-Security-Risk-Management/🛡️-Risk-Management-Strategies.md",
-    "02-CRYPTO-BLOCKCHAIN/03-Cryptocurrency-Deep-Dive/02-Altcoins-Ecosystems/🟣-BNB-Chain-Ecosystem-Guide-Lengkap.md",
+    "02-CRYPTO-BLOCKCHAIN/05-Gaming-NFT-Universe/🎨-NFT-Marketplace-Ecosystem-Analysis-2025.md",
+    "02-CRYPTO-BLOCKCHAIN/05-Gaming-NFT-Universe/🎮-NFT-Gaming-Ecosystem-Guide-Lengkap.md",
     "📁-FILE-STRUCTURE-OVERVIEW.md",
-    "02-CRYPTO-BLOCKCHAIN/05-Gaming-NFT-Universe/🌍-Dampak-Ekonomi-Kripto-Dunia.md",
-    "04-PROFESSIONAL-FINANCE/13-Quantitative-Finance/📊-Quantitative-Investing-Guide.md",
+    "02-CRYPTO-BLOCKCHAIN/04-DeFi-Web3-Ecosystem/🌉-Cross-Chain-Interoperability-Solutions.md",
+    "02-CRYPTO-BLOCKCHAIN/04-DeFi-Web3-Ecosystem/🌉-Cross-Chain-Interoperability-Solutions.md.tmp.4572.1758658484413",
+    "📁-REFactORED-FILE-STRUCTURE.md",
     "CLAUDE.md",
-    "01-TRADITIONAL-FINANCE/23-Money-Banking/🏛️-Financial-Regulation-and-Compliance.md",
-    "04-PROFESSIONAL-FINANCE/15-Financial-Education/🎓-Financial-Literacy-101.md",
+    "02-CRYPTO-BLOCKCHAIN/04-DeFi-Web3-Ecosystem/🏦-DeFi-Lending-Borrowing-Protocols.md",
+    "01-TRADITIONAL-FINANCE/25-Commodity-Markets/💎-Rare-Earth-and-Specialty-Metals.md",
     "04-PROFESSIONAL-FINANCE/11-Traditional-Finance/💼-Traditional-Finance-101.md",
-    "03-GLOBAL-MARKETS/19-Global-Stock-Markets/🇺🇸-US-Stock-Market-Complete-Guide.md",
-    "00-MAIN-DOCS/📚-Crypto-Knowledge-Base-Index.md",
-    "00-MAIN-DOCS/2025-09-23.md",
+    "02-CRYPTO-BLOCKCHAIN/06-Trading-Investment/💼-Trading-Crypto-Biar-Cuan.md",
+    "02-CRYPTO-BLOCKCHAIN/04-DeFi-Web3-Ecosystem/🎮-Web3-Gaming-Metaverse-Guide-2025.md",
+    "02-CRYPTO-BLOCKCHAIN/02-Blockchain-Technology/⚡-Layer-2-Solutions-Guide-Lengkap.md",
+    "02-CRYPTO-BLOCKCHAIN/02-Blockchain-Technology/🔗-Zero-Knowledge-Proofs-Guide-Lengkap.md",
+    "02-CRYPTO-BLOCKCHAIN/08-Security-Risk-Management/🛡️-Enterprise-Security-Implementation-Guide.md",
+    "02-CRYPTO-BLOCKCHAIN/10-Practical-Tutorials/🛠️-Advanced-Tutorials.md",
+    "02-CRYPTO-BLOCKCHAIN/09-Advanced-Topics/🚀-The-Convergence-of-AI-and-Crypto.md",
+    "02-CRYPTO-BLOCKCHAIN/09-Advanced-Topics/🚀-Decentralized-Science-DeSci.md",
+    "02-CRYPTO-BLOCKCHAIN/09-Advanced-Topics/🚀-Quantum-Computing-Threat.md",
+    "02-CRYPTO-BLOCKCHAIN/03-Cryptocurrency-Deep-Dive/02-Altcoins-Ecosystems/🟢-Polkadot-Ecosystem-Guide-Lengkap.md",
+    "02-CRYPTO-BLOCKCHAIN/08-Security-Risk-Management/🛡️-Smart-Contract-and-Protocol-Risks.md",
+    "02-CRYPTO-BLOCKCHAIN/04-DeFi-Web3-Ecosystem/🎮-Web3-Applications.md",
+    "02-CRYPTO-BLOCKCHAIN/04-DeFi-Web3-Ecosystem/💰-Yield-Farming-Guide.md",
+    "04-PROFESSIONAL-FINANCE/🎓-PROFESSIONAL-FINANCE-DOMAIN-OVERVIEW.md",
+    "02-CRYPTO-BLOCKCHAIN/02-Blockchain-Technology/🔗-Blockchain-Network-Architecture.md",
+    "02-CRYPTO-BLOCKCHAIN/💰-CRYPTOCURRENCY-BLOCKCHAIN-DOMAIN-OVERVIEW.md",
+    "02-CRYPTO-BLOCKCHAIN/02-Blockchain-Technology/🔗-Distributed-Ledger-Technology.md",
+    "01-TRADITIONAL-FINANCE/🏛️-TRADITIONAL-FINANCE-DOMAIN-OVERVIEW.md.tmp.4572.1758646531470",
+    "01-TRADITIONAL-FINANCE/25-Commodity-Markets/🌊-Carbon-Markets-and-Emissions.md.tmp.4572.1758646441957",
+    "02-CRYPTO-BLOCKCHAIN/06-Trading-Investment/md",
+    "02-CRYPTO-BLOCKCHAIN/06-Trading-Investment/Integrated-Trading-Guides",
+    "05-ADVANCED-ANALYSIS/16-Research-Methods",
+    "05-ADVANCED-ANALYSIS/20-Wealth-Management",
+    "05-ADVANCED-ANALYSIS/17-Sustainable-Finance",
+    "05-ADVANCED-ANALYSIS/16-Advanced-Analysis",
+    "05-ADVANCED-ANALYSIS/09-Professional-Finance",
     "00-MAIN-DOCS/Untitled.canvas",
+    "enxyclopedia-crypto/00-MAIN-DOCS/Untitled.canvas",
+    "Crypto Stuff/Supra (SUPRA) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis _ CryptoRank.io_files/flag_usa.svg",
+    "Crypto Stuff/Supra (SUPRA) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis _ CryptoRank.io_files/logo.svg",
+    "Crypto Stuff/Supra (SUPRA) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis _ CryptoRank.io_files/top-coins-menu-item-light.svg",
+    "Crypto Stuff/Supra (SUPRA) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis _ CryptoRank.io_files/trending-menu-item-light.svg",
+    "Crypto Stuff/Supra (SUPRA) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis _ CryptoRank.io_files/performance-menu-item-light.svg",
+    "Crypto Stuff/Supra (SUPRA) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis _ CryptoRank.io_files/recently-listed-menu-item-light.svg",
+    "Crypto Stuff/Supra (SUPRA) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis _ CryptoRank.io_files/gainers-menu-item-light.svg",
+    "Crypto Stuff/Supra (SUPRA) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis _ CryptoRank.io_files/all-categories-menu-item-light.svg",
+    "Crypto Stuff/Supra (SUPRA) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis _ CryptoRank.io_files/ath-menu-item-light.svg",
+    "Crypto Stuff/Supra (SUPRA) IEO Funding Rounds, Token Sale Review & Tokenomics Analysis _ CryptoRank.io_files/blockchains-light.svg",
+    "Untitled 1.canvas",
     "Untitled.canvas"
   ]
 }

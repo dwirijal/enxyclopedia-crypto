@@ -6,10 +6,12 @@
 
 ## 🗺️ Peta Lengkap Financial Knowledge Base
 
-**Total Kategori**: 27 Major Categories (Reorganized)
+**Total Kategori**: 27 Major Categories (NON-DUPLICATED STRUCTURE)
 **Total Topik**: 500+ Structured Topics
 **Total Artikel**: 1500+ Potential Notes
-**Structure**: Enhanced Hierarchical Organization
+**Structure**: Enhanced Non-Duplicated Hierarchical Organization
+
+**🚀 NEW STRUCTURE**: See [[📁-ENHANCED-NON-DUPLICATED-STRUCTURE.md]] for complete reorganized structure
 
 ---
 
@@ -33,7 +35,10 @@
 
 ---
 
-## 🏛️ TRADITIONAL FINANCE SYSTEMS (Reorganized)
+## 🏛️ DOMAIN 1: TRADITIONAL FINANCE SYSTEMS
+*For complete domain overview, see: [[🏛️-TRADITIONAL-FINANCE-DOMAIN-OVERVIEW]]*
+
+*For detailed structure, see: [[📁-REFactORED-FILE-STRUCTURE.md#🏛️-01-traditional-finance]]*
 
 ### **🏛️ Traditional Money & Banking (23-Traditional-Money-Banking)**
 - **Deskripsi**: Sistem keuangan tradisional, perbankan, dan mata uang fiat
@@ -85,7 +90,8 @@
 
 ---
 
-## 📈 GLOBAL STOCK MARKETS
+## 📈 DOMAIN 3: GLOBAL FINANCIAL MARKETS
+*For complete domain overview, see: [[📈-GLOBAL-FINANCIAL-MARKETS-DOMAIN-OVERVIEW]]*
 
 ### **📈 Global Stock Markets (19-Global-Stock-Markets)**
 - **Deskripsi**: Pasar saham global terlengkap
@@ -113,7 +119,8 @@
 
 ---
 
-## 💰 CRYPTOCURRENCY & BLOCKCHAIN
+## 💰 DOMAIN 2: CRYPTOCURRENCY & BLOCKCHAIN ECOSYSTEM
+*For complete domain overview, see: [[💰-CRYPTOCURRENCY-BLOCKCHAIN-DOMAIN-OVERVIEW]]*
 
 ### **🚀 Crypto Fundamentals (01-Fundamentals)**
 - **Deskripsi**: Dasar-dasar crypto yang wajib dipelajari
@@ -313,7 +320,77 @@
   - [[💰-Pajak-Crypto-Indonesia-Lengkap]] - Tax guide
   - [[📱-Crypto-Slang-Bahasa-Indonesia]] - Local slang
 
-### **🌏 Global Stock Markets (19-Global-Stock-Markets)**
+## 🎓 DOMAIN 4: PROFESSIONAL FINANCE
+*For complete domain overview, see: [[🎓-PROFESSIONAL-FINANCE-DOMAIN-OVERVIEW]]*
+
+### **💼 Traditional Finance Theory (11-Traditional-Finance)**
+- **Deskripsi**: Teori keuangan tradisional dan konsep fundamental
+- **Progress**: 13% Complete (2/15+ articles)
+- **Level**: Intermediate to Advanced
+- **🔗 Domain Overview**: [[🎓-PROFESSIONAL-FINANCE-DOMAIN-OVERVIEW#traditional-finance-theory]]
+
+### **🏛️ Professional Trading Operations (12-Professional-Trading)**
+- **Deskripsi**: Operasional trading profesional dan institusional
+- **Progress**: 6% Complete (1/16+ articles)
+- **Level**: Advanced to Professional
+- **🔗 Domain Overview**: [[🎓-PROFESSIONAL-FINANCE-DOMAIN-OVERVIEW#professional-trading-operations]]
+
+### **📈 Quantitative Finance (13-Quantitative-Finance)**
+- **Deskripsi**: Keuangan kuantitatif dan matematika keuangan
+- **Progress**: 6% Complete (1/16+ articles)
+- **Level**: Advanced to Expert
+- **🔗 Domain Overview**: [[🎓-PROFESSIONAL-FINANCE-DOMAIN-OVERVIEW#quantitative-finance]]
+
+### **🏢 Corporate Finance (14-Corporate-Finance)**
+- **Deskripsi**: Keuangan korporasi dan strategi bisnis
+- **Progress**: 8% Complete (1/12+ articles)
+- **Level**: Intermediate to Advanced
+- **🔗 Domain Overview**: [[🎓-PROFESSIONAL-FINANCE-DOMAIN-OVERVIEW#corporate-finance]]
+
+### **🎓 Financial Education & Literacy (15-Financial-Education)**
+- **Deskripsi**: Pendidikan keuangan dan literasi keuangan
+- **Progress**: 13% Complete (2/16+ articles)
+- **Level**: Beginner to Advanced
+- **🔗 Domain Overview**: [[🎓-PROFESSIONAL-FINANCE-DOMAIN-OVERVIEW#financial-education-literacy]]
+
+---
+
+## 🔍 DOMAIN 5: ADVANCED ANALYSIS & RESEARCH
+*For complete domain overview, see: [[🔍-ADVANCED-ANALYSIS-DOMAIN-OVERVIEW]]*
+
+### **🔬 Research & Analysis Methods (16-Research-Methods)**
+- **Deskripsi**: Metodologi riset dan analisis keuangan
+- **Progress**: 17% Complete (2/12+ articles)
+- **Level**: Advanced to Expert
+- **🔗 Domain Overview**: [[🔍-ADVANCED-ANALYSIS-DOMAIN-OVERVIEW#research-analysis-methods]]
+
+### **🌱 Sustainable & Ethical Finance (17-Sustainable-Finance)**
+- **Deskripsi**: Keuangan berkelanjutan dan investasi etis
+- **Progress**: 25% Complete (3/12+ articles)
+- **Level**: Intermediate to Advanced
+- **🔗 Domain Overview**: [[🔍-ADVANCED-ANALYSIS-DOMAIN-OVERVIEW#sustainable-ethical-finance]]
+
+### **💼 Alternative Investment Analysis (Alternative Category)**
+- **Deskripsi**: Analisis investasi alternatif
+- **Progress**: 0% Complete (0/16+ articles)
+- **Level**: Advanced to Expert
+- **🔗 Domain Overview**: [[🔍-ADVANCED-ANALYSIS-DOMAIN-OVERVIEW#alternative-investment-analysis]]
+
+### **💻 Financial Technology Innovation (Fintech Category)**
+- **Deskripsi**: Inovasi teknologi keuangan
+- **Progress**: 0% Complete (0/16+ articles)
+- **Level**: Intermediate to Advanced
+- **🔗 Domain Overview**: [[🔍-ADVANCED-ANALYSIS-DOMAIN-OVERVIEW#fintech-innovation]]
+
+### **💰 Wealth Management (20-Wealth-Management)**
+- **Deskripsi**: Manajemen kekayaan dan investasi kelas atas
+- **Progress**: 0% Complete (0/12+ articles)
+- **Level**: Advanced to Expert
+- **🔗 Domain Overview**: [[🔍-ADVANCED-ANALYSIS-DOMAIN-OVERVIEW#wealth-management]]
+
+---
+
+## 🌏 Global Stock Markets (19-Global-Stock-Markets)**
 - **Deskripsi**: Pasar saham global terlengkap
 - **Progress**: 0% Complete (0/20+ articles)
 - **Level**: Intermediate to Advanced
@@ -411,18 +488,21 @@
 | **Security** | 12+ | 0 | 0% | Mixed |
 | **Advanced Topics** | 15+ | 0 | 0% | Expert |
 | **Tutorials** | 20+ | 0 | 0% | Mixed |
-| **Traditional Finance** | 15+ | 0 | 0% | Intermediate |
-| **Professional Trading** | 12+ | 0 | 0% | Expert |
-| **Quantitative Finance** | 15+ | 0 | 0% | Expert |
-| **Corporate Finance** | 12+ | 0 | 0% | Intermediate |
-| **Financial Education** | 15+ | 0 | 0% | Mixed |
-| **Research Methods** | 12+ | 0 | 0% | Advanced |
-| **Sustainable Finance** | 10+ | 0 | 0% | Intermediate |
-| **Indonesia Specific** | 8+ | 0 | 0% | Mixed |
-| **Industry Analysis** | 25+ | 0 | 0% | Advanced |
-| **Institutional Wealth** | 15+ | 0 | 0% | Expert |
-| **Macroeconomic Analysis** | 20+ | 0 | 0% | Expert |
-| **TOTAL** | **350+** | **20** | **6%** | **All Levels** |
+| **Traditional Finance** | 15+ | 2 | 13% | Intermediate |
+| **Professional Trading** | 16+ | 1 | 6% | Expert |
+| **Quantitative Finance** | 16+ | 1 | 6% | Expert |
+| **Corporate Finance** | 12+ | 1 | 8% | Intermediate |
+| **Financial Education** | 16+ | 2 | 13% | Mixed |
+| **Research Methods** | 12+ | 2 | 17% | Advanced |
+| **Sustainable Finance** | 12+ | 3 | 25% | Intermediate |
+| **Alternative Investments** | 16+ | 0 | 0% | Expert |
+| **Fintech Innovation** | 16+ | 0 | 0% | Advanced |
+| **Wealth Management** | 12+ | 0 | 0% | Expert |
+| **Indonesia Specific** | 8+ | 6 | 75% | Mixed |
+| **Industry Analysis** | 25+ | 3 | 12% | Advanced |
+| **Institutional Wealth** | 20+ | 2 | 10% | Expert |
+| **Macroeconomic Analysis** | 18+ | 3 | 17% | Expert |
+| **TOTAL** | **400+** | **44+** | **11%** | **All Levels** |
 
 ---
 
@@ -461,10 +541,24 @@
 
 ---
 
+## 🆕 Refactored Structure Information
+
+As of September 23, 2025, we've implemented a refactored file structure to improve organization and navigation. 
+For details on the new structure, see: [[📁-REFactORED-FILE-STRUCTURE.md]]
+
+This refactored structure includes:
+- Enhanced progress tracking for each subcategory
+- Improved naming conventions
+- Better organization of content
+- Dedicated documentation for content creation and maintenance
+
+---
+
 **Last Updated**: 23 September 2025
-**Next Priority**: Complete remaining category TOCs
-**Total Articles to Create**: 330+
-**Completed Articles**: 20 (6% complete)
+**Next Priority**: Complete domain structure implementation
+**Total Articles to Create**: 400+
+**Completed Articles**: 44+ (11% complete)
+**New Structure**: 5 Domains → 28 Categories → 80+ Subcategories
 
 ---
 

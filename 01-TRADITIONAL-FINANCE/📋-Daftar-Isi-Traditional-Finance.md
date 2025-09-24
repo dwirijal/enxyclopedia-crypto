@@ -10,19 +10,21 @@
 
 ```
 📁 01-TRADITIONAL-FINANCE/
-├── 23-Money-Banking/           # Uang dan Perbankan
-├── 24-Forex-Markets/           # Pasar Valuta Asing
-└── 25-Commodity-Markets/       # Pasar Komoditas
+├── 01-Money-Banking/           # Uang dan Perbankan
+├── 02-Forex-Markets/           # Pasar Valuta Asing
+└── 03-Commodity-Markets/       # Pasar Komoditas
 ```
 
 ---
 
 ## 📦 Subkategori Details
 
-### 🏦 **23-Money-Banking** - Uang dan Perbankan
+### 🏦 **01-Money-Banking** - Uang dan Perbankan
 ```
-📂 23-Money-Banking/
+📂 01-Money-Banking/
 ├── 🏛️-Central-Banks-and-Monetary-Policy.md     # Kebijakan moneter bank sentral
+├── 🏛️-Financial-Regulation-and-Compliance.md    # Regulasi dan kepatuhan
+├── 🏛️-Interest-Rates-and-Economic-Impact.md    # Dampak suku bunga
 ├── 🏛️-Sejarah-Uang-Dari-Barter-Sampai-Digital.md # Sejarah evolusi uang
 ├── 🏦-Sistem-Perbankan-Indonesia-Lengkap.md      # Sistem perbankan Indonesia
 ├── 💳-Payment-Systems-and-Fintech.md             # Sistem pembayaran dan fintech
@@ -34,10 +36,11 @@
 Sejarah Uang → Bank Sentral → Perbankan Indonesia → Payment Systems
 ```
 
-### 💱 **24-Forex-Markets** - Pasar Valuta Asing
+### 💱 **02-Forex-Markets** - Pasar Valuta Asing
 ```
-📂 24-Forex-Markets/
+📂 02-Forex-Markets/
 ├── 💱-Trading-Forex-Untuk-Pemula-Indonesia.md     # Panduan trading forex pemula
+├── 📊-Currency-Pairs-and-Majors.md             # Pasangan mata uang utama
 └── 📋-Daftar-Isi-Forex-Markets.md               # Daftar isi kategori
 ```
 
@@ -46,12 +49,13 @@ Sejarah Uang → Bank Sentral → Perbankan Indonesia → Payment Systems
 Dasar Forex → Market Analysis → Trading Strategies → Risk Management
 ```
 
-### 🌾 **25-Commodity-Markets** - Pasar Komoditas
+### 🌾 **03-Commodity-Markets** - Pasar Komoditas
 ```
-📂 25-Commodity-Markets/
+📂 03-Commodity-Markets/
 ├── ⚙️-Base-Metals-Industrial-Minerals.md        # Logam dasar dan mineral industri
 ├── ⚡-Electricity-and-Power-Markets.md          # Pasar listrik dan power
 ├── ⛽️-Energy-Markets-Oil-Gas.md                 # Pasar energi minyak dan gas
+├── 🌱-Renewable-Energy-Markets.md               # Pasar energi terbarukan
 ├── 🌾-Agricultural-Commodities.md                # Komoditas pertanian
 ├── 🎨-Soft-Commodities-Trading.md                # Trading komoditas lunak
 ├── 📊-Commodity-Trading-Strategies.md            # Strategi trading komoditas
