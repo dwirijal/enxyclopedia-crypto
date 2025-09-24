@@ -14,7 +14,7 @@ highlighter: rouge
 permalink: pretty
 
 # Theme settings
-theme: minima
+# theme: minima # Using custom layout instead
 plugins:
   - jekyll-feed
   - jekyll-sitemap
