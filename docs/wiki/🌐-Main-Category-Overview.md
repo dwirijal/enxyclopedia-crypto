@@ -11,7 +11,7 @@
 **Total Artikel**: 1500+ Potential Notes
 **Structure**: Enhanced Non-Duplicated Hierarchical Organization
 
-**🚀 NEW STRUCTURE**: See [[📁-ENHANCED-NON-DUPLICATED-STRUCTURE.md]] for complete reorganized structure
+**🚀 NEW STRUCTURE**: See [[🌐-Enhanced-File-Structure.md]] for complete reorganized structure
 
 ---
 
@@ -36,9 +36,7 @@
 ---
 
 ## 🏛️ DOMAIN 1: TRADITIONAL FINANCE SYSTEMS
-*For complete domain overview, see: [[🏛️-TRADITIONAL-FINANCE-DOMAIN-OVERVIEW]]*
-
-*For detailed structure, see: [[📁-REFactORED-FILE-STRUCTURE.md#🏛️-01-traditional-finance]]*
+*For detailed structure, see: [[🌐-Enhanced-File-Structure.md#traditional-finance]]*
 
 ### **🏛️ Traditional Money & Banking (23-Traditional-Money-Banking)**
 - **Deskripsi**: Sistem keuangan tradisional, perbankan, dan mata uang fiat

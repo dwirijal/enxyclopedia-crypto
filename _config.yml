@@ -4,9 +4,9 @@ description: "Comprehensive financial markets and cryptocurrency knowledge base 
 author: "dwirijal"
 lang: "id-ID"
 
-# URL settings
+# URL settings - GitHub Pages
 url: "https://dwirijal.github.io" # the base hostname & protocol for your site
-baseurl: "/enxyclopedia-crypto" # the subpath of your site, e.g. /blog
+baseurl: "/enxyclopedia-crypto" # the subpath of your site
 
 # Build settings
 markdown: kramdown
@@ -20,6 +20,24 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# GitHub Pages specific settings
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
 # Navigation structure
 header_pages:
   - index.md
@@ -31,19 +49,19 @@ collections:
   traditional_finance:
     output: true
     permalink: /:collection/:path/
-  
+
   crypto_blockchain:
     output: true
     permalink: /:collection/:path/
-  
+
   global_markets:
     output: true
     permalink: /:collection/:path/
-  
+
   professional_finance:
     output: true
     permalink: /:collection/:path/
-  
+
   advanced_analysis:
     output: true
     permalink: /:collection/:path/
@@ -63,6 +81,18 @@ exclude:
   - README.md
   - LICENSE
   - CHANGELOG.md
+  - .obsidian/
+  - backup.sh
+  - backup.bat
+  - 00-MAIN-DOCS/backup.sh
+  - 00-MAIN-DOCS/backup.bat
+  - all_links.txt
+  - CLAUDE.md
+  - 📁-ENHANCED-HIERARCHICAL-STRUCTURE.md
+  - 📁-ENHANCED-NON-DUPLICATED-STRUCTURE.md
+  - 📁-FILE-STRUCTURE-OVERVIEW.md
+  - 📁-REFactORED-FILE-STRUCTURE.md
+  - 🚀-STRUCTURE-IMPLEMENTATION-COMPLETE.md
 
 # Front matter defaults
 defaults:
@@ -117,3 +147,14 @@ github:
 
 # Google Analytics (add your tracking ID later)
 # google_analytics: UA-XXXXXXXXX-X
+
+# Jekyll SEO Tag
+social:
+  name: dwirijal
+  links:
+    - https://github.com/dwirijal
+    - https://twitter.com/dwirijal
+
+# Webmaster verification
+google_site_verification: ""
+bing_site_verification: ""

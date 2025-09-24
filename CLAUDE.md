@@ -15,14 +15,32 @@ This is a comprehensive Indonesian-language financial markets knowledge base bui
 
 ## 📁 Repository Structure
 
-### Non-Duplicated Hierarchical Organization (Updated September 2025)
+### Clean Hierarchical Organization (Updated September 2025)
 ```
 📁 Financial Markets Knowledge Base/
-├── 📄 00-MAIN-DOCS/                    # Main documentation and navigation
-│   ├── 🌐-Enhanced-File-Structure.md     # Enhanced structure documentation
-│   ├── 🌐-Main-Category-Overview.md      # Main navigation hub
-│   ├── 📚-Crypto-Knowledge-Base-Index.md  # Knowledge base index
-│   └── 📋-Daftar-Isi-Lengkap-Knowledge-Base.md # Complete table of contents
+├── 📄 docs/                           # Project documentation and guides
+│   ├── README.md                      # Documentation overview
+│   ├── getting-started.md            # Quick start guide
+│   ├── project-overview.md           # Project introduction
+│   ├── development.md                # Development guide
+│   ├── deployment.md                 # Deployment instructions
+│   ├── directory-structure.md        # Technical file organization
+│   ├── content-organization.md       # Content structure guide
+│   ├── technical-stack.md            # Technologies used
+│   ├── design-system.md              # Design guidelines
+│   ├── contributing.md               # Contribution guidelines
+│   ├── content-guidelines.md         # Content standards
+│   ├── code-of-conduct.md            # Community guidelines
+│   ├── troubleshooting.md             # Common issues
+│   ├── faq.md                        # Frequently asked questions
+│   └── glossary.md                   # Key terms
+│   └── wiki/                         # Wiki navigation files
+│       ├── README.md                 # Wiki structure documentation
+│       ├── 🌐-Enhanced-File-Structure.md     # Enhanced structure documentation
+│       ├── 🌐-Main-Category-Overview.md      # Main navigation hub
+│       ├── 🌐-Wiki-Structure-Crypto-Indonesia.md # Complete wiki structure
+│       ├── 📋-Daftar-Isi-Lengkap-Knowledge-Base.md # Complete table of contents
+│       └── 📚-Crypto-Knowledge-Base-Index.md  # Knowledge base index
 ├── 🏛️ 01-TRADITIONAL-FINANCE/         # Traditional finance systems (3 categories)
 │   ├── 01-Money-Banking/                # Money & banking fundamentals
 │   ├── 02-Forex-Markets/                # Foreign exchange markets
@@ -64,10 +82,16 @@ This is a comprehensive Indonesian-language financial markets knowledge base bui
 - **Consistent Naming**: Simplified category names (e.g., "DeFi-Web3" instead of "DeFi-Web3-Ecosystem")
 - **Clear Separation**: Each category has unique purpose and scope
 - **Better Navigation**: Updated table of contents files reflect new structure
+- **Clean Documentation**: Moved wiki files to organized `docs/wiki/` structure following best practices
+- **Removed Redundancy**: Eliminated 6 duplicate structure files from root directory
+- **Improved Accessibility**: Backup scripts moved to root for easier access
 
 ## 🔧 Technical Architecture
 
-### Obsidian Vault System
+### Dual-Purpose System
+This repository serves as both an **Obsidian vault** and a **Jekyll-powered website**:
+
+#### Obsidian Vault System
 - **Wiki Links**: Use `[[file-name]]` format for internal linking
 - **Categories**: 27 subcategories across 5 main domains with hierarchical organization
 - **Learning Paths**: Structured progression from beginner to advanced
@@ -75,11 +99,19 @@ This is a comprehensive Indonesian-language financial markets knowledge base bui
 - **Enhanced Structure**: Parent-child relationships with metadata templates
 - **Graph View Optimization**: Clear hierarchical relationships for visualization
 
+#### Jekyll Web Platform
+- **GitHub Pages**: Static site hosting via Jekyll
+- **Apple-Inspired Design**: Modern, clean interface with Tailwind CSS
+- **Responsive Layout**: Mobile-first design with dropdown navigation
+- **SEO Optimized**: Meta tags, structured data, and social sharing
+- **Search Integration**: GitHub repository search functionality
+- **Collections**: Organized content in 5 main collections for better structure
+
 ### Development Commands & Workflow
 ```bash
-# Automated backup (currently missing - needs to be created)
-./backup.sh    # Commit changes with timestamps
-./backup.bat    # Windows version
+# Automated backup (implemented)
+./backup.sh    # Unix/Linux/macOS - Auto-commit with timestamps
+./backup.bat    # Windows - Auto-commit with timestamps
 
 # Git operations for manual management
 git status      # Check modified files
@@ -87,17 +119,32 @@ git add .       # Stage all changes
 git commit -m "Update: [description]" # Manual commit
 git push        # Push to remote (if configured)
 
-# Content verification
-find . -name "*.md" | wc -l    # Count total markdown files
-find . -name "*.md" -exec grep -l "[[" {} \; | wc -l  # Count files with internal links
+# Content verification (146 files total)
+find . -name "*.md" | wc -l    # Count total markdown files (currently 146)
+find . -name "*.md" -exec grep -l "\[\[" {} \; | wc -l  # Count files with internal links
+find . -name "*.md" -exec head -3 {} \; | grep -E "(# 🎯|# 🏛️|# 💰|# 📈|# 🔍)"  # Verify header structure
+
+# GitHub Pages development and deployment
+bundle install    # Install Ruby dependencies
+bundle exec jekyll serve    # Local development server (localhost:4000)
+bundle exec jekyll build    # Build static site to _site/
 ```
 
 ### Key Configuration Files
 - **.obsidian/community-plugins.json**: Git integration enabled
 - **.obsidian/core-plugins.json**: Core Obsidian features configuration
 - **.obsidian/workspace.json**: Workspace layout and settings
-- **backup.sh/backup.bat**: Automated git commit system (to be created)
-- **All content**: Markdown files with Indonesian text
+- **_config.yml**: Jekyll configuration for GitHub Pages
+- **Gemfile**: Ruby dependencies for GitHub Pages
+- **.github/workflows/deploy.yml**: GitHub Actions deployment workflow
+- **_layouts/default.html**: Apple-inspired design system
+- **assets/css/style.css**: Comprehensive Apple design system (1263 lines)
+- **404.md**: Custom 404 error page
+- **about.md**: Project information page
+- **search.md**: Search functionality page
+- **backup.sh & backup.bat**: Automated git commit system (moved to root for easy access)
+- **GITHUB-PAGES-SETUP.md**: Complete deployment guide
+- **All content**: 146 markdown files with Indonesian text
 
 ### Obsidian Plugin Configuration
 **Enabled Community Plugins:**
@@ -109,13 +156,19 @@ find . -name "*.md" -exec grep -l "[[" {} \; | wc -l  # Count files with interna
 - `canvas`, `templates`, `command-palette`, `outline`, `word-count`
 - `bookmarks`, `daily-notes`, `note-composer`, `page-preview`
 
-### Backup System (To Be Implemented)
+### Backup System (Implemented)
 ```bash
-# Required: Create backup.sh script with:
+# Current backup scripts in 00-MAIN-DOCS/:
+# backup.sh (Unix/Linux/macOS) & backup.bat (Windows)
+# Features:
 # - Git add/commit automation
 # - Timestamp-based commit messages
-# - Regular backup scheduling
-# - Conflict resolution handling
+# - Change detection before commit
+# - Cross-platform compatibility
+
+# Usage:
+./00-MAIN-DOCS/backup.sh    # Unix-based systems
+./00-MAIN-DOCS/backup.bat    # Windows
 ```
 
 ## 🎨 Content Style & Standards
@@ -188,19 +241,19 @@ This knowledge base follows a **hierarchical knowledge architecture** with clear
 Read the relevant files in the repository
 
 # 2. Check enhanced structure for placement
-Review 🌐-Enhanced-File-Structure.md
+Review docs/wiki/🌐-Enhanced-File-Structure.md
 
 # 3. Update main category overview if needed
-Edit 🌐-Main-Category-Overview.md
+Edit docs/wiki/🌐-Main-Category-Overview.md
 
 # 4. Create or modify content files in appropriate subcategory
 Write/Edit individual guide files
 
 # 5. Update central index if needed
-Edit 📚-Crypto-Knowledge-Base-Index.md
+Edit docs/wiki/📚-Crypto-Knowledge-Base-Index.md
 
 # 6. Update file structure overview if categories changed
-Edit 📁-FILE-STRUCTURE-OVERVIEW.md
+Edit docs/directory-structure.md
 
 # 7. Run backup (optional - automatic)
 # The backup.sh script handles this
@@ -230,6 +283,8 @@ find . -name "*.md" -exec grep -c "\[\[.*\]\]" {} \; | sort -n  # Find well-conn
 - **Completeness**: Cover topics comprehensively with practical examples
 - **Graph View**: Verify relationships display correctly in Obsidian graph
 - **Cross-References**: Each article should link to related topics in other domains
+- **Web Compatibility**: Ensure content renders correctly in Jekyll web interface
+- **SEO Compliance**: Check meta descriptions and structured data
 
 ## 📊 Current Content Scope
 
@@ -274,7 +329,8 @@ find . -name "*.md" -exec grep -c "\[\[.*\]\]" {} \; | sort -n  # Find well-conn
 5. **05-Wealth-Management** - Portfolio management and wealth preservation
 
 ### Key Metrics (2025)
-- **Total Files**: 1500+ potential articles across 27 subcategories
+- **Total Files**: 146 markdown files currently implemented
+- **Target Capacity**: 1500+ potential articles across 27 subcategories
 - **Main Categories**: 5 major domains
 - **Subcategories**: 27 specialized areas
 - **Market Data**: September 2025 current
@@ -282,6 +338,7 @@ find . -name "*.md" -exec grep -c "\[\[.*\]\]" {} \; | sort -n  # Find well-conn
 - **Complexity**: Beginner to advanced level
 - **Language**: Indonesian (bahasa Indonesia)
 - **Focus**: Practical financial markets education
+- **Platform**: Dual deployment (Obsidian + GitHub Pages)
 
 ## ⚠️ Important Restrictions
 
@@ -297,11 +354,13 @@ find . -name "*.md" -exec grep -c "\[\[.*\]\]" {} \; | sort -n  # Find well-conn
 ### Technical Restrictions
 - **Obsidian Format**: Maintain `[[file-name]]` linking system
 - **Markdown Only**: All files must be .md format
-- **Backup System**: Don't interfere with backup.sh operations
+- **Backup System**: Don't interfere with backup.sh/backup.bat operations
 - **Plugin Compatibility**: Content should work with existing Obsidian plugins
 - **Directory Structure**: Maintain hierarchical organization with 5 main domains
 - **File Naming**: Follow established emoji and naming conventions
 - **Cross-References**: Use enhanced linking patterns with anchor IDs
+- **Jekyll Compatibility**: Ensure content renders correctly in web interface
+- **GitHub Pages**: Follow Jekyll front matter requirements for web pages
 
 ### Security Guidelines
 - **Defensive Only**: Security content must be for protection
@@ -332,20 +391,24 @@ find . -name "*.md" -exec grep -c "\[\[.*\]\]" {} \; | sort -n  # Find well-conn
 - **Security Practices**: Keep security advice current
 - **Platform Changes**: Update for new crypto platforms
 
-### Version Control
-- **Automatic Backups**: backup.sh handles daily commits
-- **Change Tracking**: Git maintains full version history
+### Version Control & Deployment
+- **Automatic Backups**: backup.sh/backup.bat handles timestamped commits
+- **Change Tracking**: Git maintains full version history with detailed commits
 - **Rollback Capability**: Can revert to previous versions
 - **Collaboration Ready**: Structure supports multiple contributors
+- **GitHub Pages**: Automated deployment via GitHub Actions on master branch
+- **Production URL**: https://dwirijal.github.io/enxyclopedia-crypto/
+- **Local Testing**: `bundle exec jekyll serve` for development
+- **Build Process**: Ruby/Jekyll builds static site to _site/ directory
 
 ---
 
 ## 🚀 Quick Start for New Claude Instances
 
 ### First Steps
-1. **Read Non-Duplicated Structure**: Understand the updated 5-main-domain organization in `📁-ENHANCED-NON-DUPLICATED-STRUCTURE.md`
-2. **Check Main Category Overview**: Review the navigation hub in `🌐-Main-Category-Overview.md`
-3. **Verify Current Structure**: Check recent implementation in `🚀-STRUCTURE-IMPLEMENTATION-COMPLETE.md`
+1. **Read Clean Structure**: Understand the organized 5-main-domain structure in `docs/directory-structure.md`
+2. **Check Main Category Overview**: Review the navigation hub in `docs/wiki/🌐-Main-Category-Overview.md`
+3. **Understand Wiki Organization**: Read `docs/wiki/README.md` for wiki structure documentation
 4. **Sample Content**: Read existing guides to understand Indonesian writing style and structure
 5. **Current Coverage**: Review what's already covered in each subcategory to avoid duplicates
 
@@ -353,8 +416,8 @@ find . -name "*.md" -exec grep -c "\[\[.*\]\]" {} \; | sort -n  # Find well-conn
 1. **Choose Main Domain**: Select from the 5 main domains (Traditional Finance, Crypto, Global Markets, Professional Finance, Advanced Analysis)
 2. **Select Subcategory**: Pick appropriate sequential-numbered subcategory (01-XX format)
 3. **Check for Duplicates**: Ensure topic isn't already covered in any domain
-4. **Update Structure Documentation**: Add to `📁-ENHANCED-NON-DUPLICATED-STRUCTURE.md` if creating new categories
-5. **Update Navigation**: Modify relevant table of contents files
+4. **Update Structure Documentation**: Add to `docs/directory-structure.md` if creating new categories
+5. **Update Navigation**: Modify relevant table of contents files in `docs/wiki/`
 6. **Create Content**: Write in casual Indonesian (bahasa sehari-hari) with proper emoji headers
 7. **Add Cross-References**: Use extensive `[[file-name]]` linking to related topics across domains
 
