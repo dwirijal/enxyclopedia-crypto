@@ -76,32 +76,36 @@ defaults:
       path: ""
       type: "traditional_finance"
     values:
-      layout: "page"
+      layout: "default"
       category: "Traditional Finance"
   - scope:
       path: ""
       type: "crypto_blockchain"
     values:
-      layout: "page"
+      layout: "default"
       category: "Crypto & Blockchain"
   - scope:
       path: ""
       type: "global_markets"
     values:
-      layout: "page"
+      layout: "default"
       category: "Global Markets"
   - scope:
       path: ""
       type: "professional_finance"
     values:
-      layout: "page"
+      layout: "default"
       category: "Professional Finance"
   - scope:
       path: ""
       type: "advanced_analysis"
     values:
-      layout: "page"
+      layout: "default"
       category: "Advanced Analysis"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # SEO and social media
 twitter:
