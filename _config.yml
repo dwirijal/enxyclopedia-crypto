@@ -25,7 +25,6 @@ lsi: false
 safe: true
 source: .
 incremental: false
-highlighter: rouge
 gist:
   noscript: false
 kramdown:
@@ -41,8 +40,8 @@ kramdown:
 # Navigation structure
 header_pages:
   - index.md
-  - docs/wiki/🌐-Enhanced-File-Structure.md
-  - docs/wiki/📋-Daftar-Isi-Lengkap-Knowledge-Base.md
+  - docs/wiki/enhanced-file-structure.md
+  - docs/wiki/daftar-isi-lengkap.md
 
 # Collections for better organization
 collections:
