@@ -5,7 +5,6 @@ gem 'github-pages', group: :jekyll_plugins
 
 # Development gems (not needed on GitHub Pages)
 group :development do
-  gem 'jekyll', '~> 4.3'
   gem 'kramdown', '~> 2.4'
   gem 'rouge', '~> 4.2'
   gem 'jekyll-watch'
