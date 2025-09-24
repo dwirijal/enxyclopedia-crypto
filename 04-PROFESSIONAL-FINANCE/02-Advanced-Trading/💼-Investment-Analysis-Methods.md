@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Investment Analysis Methods"
+category: "Professional Finance"
+subcategory: "Advanced Trading"
+description: "Metode analisis investasi: fundamental, technical, quantitative dengan studi kasus pasar modal Indonesia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💼 Investment Analysis Methods
 
 **Metode analisis investasi: fundamental, technical, quantitative dengan studi kasus pasar modal Indonesia**

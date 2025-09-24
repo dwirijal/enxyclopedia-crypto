@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Detailed Coin Guide Lengkap"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Guide lengkap semua cryptocurrency penting - dari Bitcoin hingga altcoin terbaru dengan spesifikasi teknis, tokenomics, dan analysis lengkap"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💰 Detailed Coin Guide Lengkap
 
 **Guide lengkap semua cryptocurrency penting!** **Dari Bitcoin sampe altcoin terbaru!** **Spesifikasi teknis, tokenomics, dan analysis!**

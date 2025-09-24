@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Central Banks and Monetary Policy"
+category: "Traditional Finance"
+subcategory: "Money & Banking"
+description: "Panduan lengkap bank sentral dan kebijakan moneter: dari mekanisme operasional hingga dampak ekonomi"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🏛️ Central Banks and Monetary Policy
 
 **Panduan lengkap bank sentral dan kebijakan moneter: dari mekanisme operasional hingga dampak ekonomi**

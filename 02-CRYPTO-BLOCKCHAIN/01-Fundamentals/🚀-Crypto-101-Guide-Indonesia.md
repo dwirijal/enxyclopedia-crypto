@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Crypto 101 Guide Lengkap Bahasa Indonesia"
+category: "Crypto & Blockchain"
+subcategory: "Fundamentals"
+description: "Selamat datang di dunia crypto! Ini adalah panduan lengkap buat elo yang mau belajar cryptocurrency dari nol sampe jago."
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🚀 Crypto 101: Guide Lengkap Bahasa Indonesia
 
 **Selamat datang di dunia crypto!** Ini adalah panduan lengkap buat elo yang mau belajar cryptocurrency dari nol sampe jago. Bahasannya dari sejarah uang, teknologi blockchain, sampe cara trading yang bikin cuan.

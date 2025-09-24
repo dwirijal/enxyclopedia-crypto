@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Stablecoin Deep Dive"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Panduan lengkap stablecoin untuk pengguna Indonesia - memahami jenis, risiko, dan cara menggunakan stablecoin dengan aman"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💰 Stablecoin Deep Dive
 
 > **Panduan Lengkap Stablecoin untuk Pengguna Indonesia**

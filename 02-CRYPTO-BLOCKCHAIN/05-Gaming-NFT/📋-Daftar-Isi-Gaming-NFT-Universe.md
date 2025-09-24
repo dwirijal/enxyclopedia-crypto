@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi - Gaming & NFT Universe"
+category: "Crypto & Blockchain"
+subcategory: "Gaming & NFT"
+description: "Daftar isi lengkap Gaming & NFT Universe - navigasi dan organisasi konten gaming, NFT, dan metaverse"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Gaming & NFT Universe (Dunia Gaming & NFT)
 
 ## 🗂️ Kategori: 05-Gaming-NFT-Universe

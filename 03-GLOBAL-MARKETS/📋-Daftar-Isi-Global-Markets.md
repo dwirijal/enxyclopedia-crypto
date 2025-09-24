@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi Global Markets"
+category: "Global Markets"
+subcategory: "Global Markets"
+description: "Panduan navigasi untuk pasar finansial global dan analisis makroekonomi"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Global Markets
 
 **Panduan navigasi untuk pasar finansial global dan analisis makroekonomi**

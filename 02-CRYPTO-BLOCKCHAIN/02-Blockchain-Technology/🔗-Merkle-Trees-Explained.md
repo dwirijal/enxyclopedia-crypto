@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Merkle Trees Explained Struktur Data Fundamental Blockchain"
+category: "Crypto & Blockchain"
+subcategory: "Blockchain Technology"
+description: "Cara blockchain menyimpan data secara efisien dan aman - konsep yang menjadi dasar hampir semua cryptocurrency"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🔗 Merkle Trees Explained: Struktur Data Fundamental Blockchain
 
 > **"Cara blockchain menyimpan data secara efisien dan aman - konsep yang menjadi dasar hampir semua cryptocurrency"**

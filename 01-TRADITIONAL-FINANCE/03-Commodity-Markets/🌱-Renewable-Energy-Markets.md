@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Renewable Energy Markets"
+category: "Traditional Finance"
+subcategory: "Commodity Markets"
+description: "Panduan Lengkap Pasar Energi Terbarukan untuk Investor Indonesia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🌱 Renewable Energy Markets
 
 > **Panduan Lengkap Pasar Energi Terbarukan untuk Investor Indonesia**

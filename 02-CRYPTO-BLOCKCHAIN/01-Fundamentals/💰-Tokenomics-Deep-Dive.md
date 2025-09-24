@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Tokenomics Deep Dive"
+category: "Crypto & Blockchain"
+subcategory: "Fundamentals"
+description: "Ilmu ekonomi token: memahami supply, demand, utility, dan value accrual mechanisms"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💰 Tokenomics Deep Dive
 
 **Ilmu ekonomi token: memahami supply, demand, utility, dan value accrual mechanisms**

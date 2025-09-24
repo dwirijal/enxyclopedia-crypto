@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi - Advanced Analysis"
+category: "Advanced Analysis"
+subcategory: "Advanced Analysis"
+description: "Panduan navigasi untuk analisis lanjutan dan metodologi riset"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Advanced Analysis
 
 **Panduan navigasi untuk analisis lanjutan dan metodologi riset**

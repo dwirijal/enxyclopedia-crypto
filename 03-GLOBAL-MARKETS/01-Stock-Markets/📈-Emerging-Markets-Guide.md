@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Emerging Markets Investment Guide"
+category: "Global Markets"
+subcategory: "Stock Markets"
+description: "Panduan Lengkap Berinvestasi di Pasar Negara Berkembang"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📈 Emerging Markets Investment Guide
 
 > **Panduan Lengkap Berinvestasi di Pasar Negara Berkembang**

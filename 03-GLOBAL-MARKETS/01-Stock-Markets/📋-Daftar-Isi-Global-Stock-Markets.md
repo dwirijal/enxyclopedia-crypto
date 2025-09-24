@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi Global Stock Markets"
+category: "Global Markets"
+subcategory: "Stock Markets"
+description: "Daftar isi lengkap kategori Global Stock Markets dengan 10+ artikel tentang pasar saham global"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Global-Stock-Markets
 
 ## 🗂️ Kategori: 19-Global-Stock-Markets

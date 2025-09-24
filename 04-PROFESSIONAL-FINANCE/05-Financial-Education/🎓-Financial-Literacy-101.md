@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Financial Literacy 101"
+category: "Professional Finance"
+subcategory: "Financial Education"
+description: "Panduan lengkap literasi keuangan - Dari dasar hingga praktik untuk kehidupan sehari-hari"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🎓 Financial Literacy 101
 
 *Panduan lengkap literasi keuangan - Dari dasar hingga praktik untuk kehidupan sehari-hari*

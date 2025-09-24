@@ -1,3 +1,13 @@
+---
+layout: default
+title: "NFT Market Analysis & Trends 2025"
+category: "Crypto & Blockchain"
+subcategory: "Gaming & NFT"
+description: "Update lengkap NFT market 2025 - market cap, trend terbaru, dan analisis investasi NFT yang perlu diketahui"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🎨 NFT Market Analysis & Trends 2025
 
 **NFT market lagi reborn!** **Apa yang baru di NFT 2025?** **Trend apa yang lagi happening?**

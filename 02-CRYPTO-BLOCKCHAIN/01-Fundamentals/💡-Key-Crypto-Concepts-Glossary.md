@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Key Crypto Concepts Glossary"
+category: "Crypto & Blockchain"
+subcategory: "Fundamentals"
+description: "Kamus lengkap konsep kunci crypto: HODL, FUD, FOMO, dan terminologi penting lainnya"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💡 Key Crypto Concepts Glossary
 
 **Kamus lengkap konsep kunci crypto: HODL, FUD, FOMO, dan terminologi penting lainnya**

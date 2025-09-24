@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi Blockchain Technology"
+category: "Crypto & Blockchain"
+subcategory: "Blockchain Technology"
+description: "Kategori: 02-Blockchain-Technology"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Blockchain Technology (Teknologi Blockchain)
 
 ## 🗂️ Kategori: 02-Blockchain-Technology

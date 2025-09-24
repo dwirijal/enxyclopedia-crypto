@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Precious Metals Gold Silver"
+category: "Traditional Finance"
+subcategory: "Commodity Markets"
+description: "Pasar logam mulia, strategi investasi, dan peran penting dalam portofolio Indonesia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🥈 Precious Metals: Emas, Perak, dan Logam Mulia
 
 **Pasar logam mulia, strategi investasi, dan peran penting dalam portofolio Indonesia**

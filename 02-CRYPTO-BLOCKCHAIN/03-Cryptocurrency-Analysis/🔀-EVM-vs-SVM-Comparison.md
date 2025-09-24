@@ -1,3 +1,13 @@
+---
+layout: default
+title: "EVM vs SVM Comparison"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Perbandingan Ethereum Virtual Machine vs Solana Virtual Machine - perbedaan teknis, kelebihan, dan kekurangan"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🔀 EVM vs SVM Comparison
 
 **Ethereum Virtual Machine vs Solana Virtual Machine!** **Mana yang lebih baik?** **Apa perbedaan teknisnya?**

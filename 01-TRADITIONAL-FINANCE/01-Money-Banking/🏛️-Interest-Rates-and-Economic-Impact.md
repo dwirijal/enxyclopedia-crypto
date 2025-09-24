@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Interest Rates and Economic Impact"
+category: "Traditional Finance"
+subcategory: "Money & Banking"
+description: "Panduan Lengkap Suku Bunga dan Dampak Ekonominya"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🏛️ Interest Rates and Economic Impact
 
 > **Panduan Lengkap Suku Bunga dan Dampak Ekonominya**

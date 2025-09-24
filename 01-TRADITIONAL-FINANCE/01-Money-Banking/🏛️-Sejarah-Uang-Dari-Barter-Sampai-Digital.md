@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Sejarah Uang Dari Barter Sampai Digital"
+category: "Traditional Finance"
+subcategory: "Money & Banking"
+description: "Perjalanan evolusi uang di Indonesia dan dunia - studi kasus konteks lokal"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🏛️ Sejarah Uang: Dari Barter Sampai Digital
 
 **Perjalanan evolusi uang di Indonesia dan dunia - studi kasus konteks lokal**

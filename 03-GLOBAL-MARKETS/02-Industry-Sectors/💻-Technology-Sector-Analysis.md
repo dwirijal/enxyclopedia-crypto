@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Technology Sector Analysis"
+category: "Global Markets"
+subcategory: "Industry Sectors"
+description: "Panduan Lengkap Analisis Sektor Teknologi Global"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💻 Technology Sector Analysis
 
 > **Panduan Lengkap Analisis Sektor Teknologi Global**

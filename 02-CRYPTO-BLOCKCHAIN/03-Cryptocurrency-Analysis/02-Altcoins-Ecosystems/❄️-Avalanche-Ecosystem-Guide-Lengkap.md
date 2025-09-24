@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Avalanche Ecosystem Guide Lengkap"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Platform blockchain open-source dengan skalabilitas tinggi - teknologi, DeFi ecosystem, dan investment thesis Avalanche"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # ❄️ Avalanche Ecosystem Guide Lengkap
 
 ## 📋 Daftar Isi

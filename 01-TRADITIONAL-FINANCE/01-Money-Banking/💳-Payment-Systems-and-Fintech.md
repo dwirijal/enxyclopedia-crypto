@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Payment Systems and Fintech Revolution"
+category: "Traditional Finance"
+subcategory: "Money & Banking"
+description: "Sistem pembayaran modern, revolusi fintech, dan transformasi digital di Indonesia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💳 Payment Systems and Fintech Revolution
 
 **Sistem pembayaran modern, revolusi fintech, dan transformasi digital di Indonesia**

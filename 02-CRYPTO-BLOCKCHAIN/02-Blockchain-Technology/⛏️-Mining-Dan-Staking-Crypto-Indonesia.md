@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Mining Dan Staking Crypto Indonesia Panduan Lengkap 2025"
+category: "Crypto & Blockchain"
+subcategory: "Blockchain Technology"
+description: "Cara menghasilkan crypto dengan memvalidasi transaksi - dari mining GPU hingga staking validator"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # ⛏️ Mining dan Staking Crypto Indonesia: Panduan Lengkap 2025
 
 > **"Cara menghasilkan crypto dengan memvalidasi transaksi - dari mining GPU hingga staking validator"**

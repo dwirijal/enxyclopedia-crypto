@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Institutional Trading Strategies"
+category: "Professional Finance"
+subcategory: "Advanced Trading"
+description: "Trading profesional bukan tentang keberuntungan, tapi tentang sistem, disiplin, dan pengelolaan risiko yang ketat"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🏛️ Institutional Trading Strategies: Advanced Methods for Professional Crypto Trading
 
 > *Trading profesional bukan tentang keberuntungan, tapi tentang sistem, disiplin, dan pengelolaan risiko yang ketat*

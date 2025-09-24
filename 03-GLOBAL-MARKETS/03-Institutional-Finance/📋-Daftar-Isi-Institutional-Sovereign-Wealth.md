@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi Institutional Sovereign Wealth"
+category: "Global Markets"
+subcategory: "Institutional Finance"
+description: "Daftar isi lengkap kategori Institutional Sovereign Wealth dengan 10+ artikel tentang keuangan institusional"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Institutional-Sovereign-Wealth
 
 ## 🗂️ Kategori: 21-Institutional-Sovereign-Wealth

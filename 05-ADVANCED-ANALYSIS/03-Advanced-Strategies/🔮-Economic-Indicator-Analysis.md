@@ -1,4 +1,14 @@
-l# 🔮 Economic Indicator Analysis
+---
+layout: default
+title: "Economic Indicator Analysis"
+category: "Advanced Analysis"
+subcategory: "Advanced Strategies"
+description: "Analisis indikator ekonomi: leading, lagging, coincident dengan studi kasus perekonomian Indonesia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
+# 🔮 Economic Indicator Analysis
 
 **Analisis indikator ekonomi: leading, lagging, coincident dengan studi kasus perekonomian Indonesia**
 

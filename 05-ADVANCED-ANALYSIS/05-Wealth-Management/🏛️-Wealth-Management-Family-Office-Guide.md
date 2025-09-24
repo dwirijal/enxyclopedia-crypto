@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Wealth Management & Family Office Complete Guide"
+category: "Advanced Analysis"
+subcategory: "Wealth Management"
+description: "Evolusi wealth management di Indonesia dari sekadar manajemen investasi menjadi pendekatan holistik"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🏛️ Wealth Management & Family Office Complete Guide
 
 ## Pendahuluan: Evolusi Wealth Management di Indonesia

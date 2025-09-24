@@ -1,3 +1,13 @@
+---
+layout: default
+title: "DeFi Protocols Status 2025"
+category: "Crypto & Blockchain"
+subcategory: "DeFi & Web3"
+description: "Update lengkap status DeFi protocols 2025 - TVL, performance, dan trend terkini di ekosistem DeFi"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📊 DeFi Protocols Status 2025
 
 **DeFi lagi booming gila nih!** **TVL udah berapa sekarang?** **Protocols apa yang lagi tren?**

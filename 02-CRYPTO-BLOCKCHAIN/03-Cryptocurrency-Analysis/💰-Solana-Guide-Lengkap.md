@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Solana Guide Lengkap"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Blockchain super cepat dengan fee super murah - teknologi, ekosistem, dan analisis investasi Solana"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💰 Solana Guide Lengkap
 
 **Solana: blockchain super cepat dengan fee super murah!** **The Ethereum Killer? Atau just another blockchain?**

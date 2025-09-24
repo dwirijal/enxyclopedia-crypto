@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Global Macro Investment Strategies"
+category: "Global Markets"
+subcategory: "Stock Markets"
+description: "Panduan lengkap analisis makroekonomi dan penerapannya dalam investasi global"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🌍 Global Macro Investment Strategies
 
 ## Pendahuluan: Global Macro Investing di Era Digital

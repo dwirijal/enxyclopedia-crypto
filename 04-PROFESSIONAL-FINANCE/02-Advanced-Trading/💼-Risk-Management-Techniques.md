@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Risk Management Techniques"
+category: "Professional Finance"
+subcategory: "Advanced Trading"
+description: "Teknik manajemen risiko keuangan: identifikasi, pengukuran, mitigasi risiko dengan studi kasus perusahaan Indonesia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💼 Risk Management Techniques
 
 **Teknik manajemen risiko keuangan: identifikasi, pengukuran, mitigasi risiko dengan studi kasus perusahaan Indonesia**

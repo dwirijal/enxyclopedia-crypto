@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Ethereum Guide Lengkap: Dari Smart Contract hingga Web3"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Platform komputasi terdesentralisasi terbesar di dunia - dasar untuk aplikasi terdesentralisasi, DeFi, dan ekonomi digital baru"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💎 Ethereum Guide Lengkap: Dari Smart Contract hingga Web3
 
 > Platform komputasi terdesentralisasi terbesar di dunia - dasar untuk aplikasi terdesentralisasi, DeFi, dan ekonomi digital baru

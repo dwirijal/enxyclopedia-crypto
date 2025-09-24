@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Crypto Glossary Lengkap Indonesia"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Glossary lengkap cryptocurrency dalam bahasa Indonesia - semua istilah penting dari A-Z untuk pemula hingga expert"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📚 Crypto Glossary Lengkap Indonesia
 
 **Bingung sama istilah crypto?** **Mau ngerti arti Airdrop, APY, Blockchain?**

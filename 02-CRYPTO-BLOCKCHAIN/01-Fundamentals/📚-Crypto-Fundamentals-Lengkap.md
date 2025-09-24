@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Crypto Fundamentals Lengkap"
+category: "Crypto & Blockchain"
+subcategory: "Fundamentals"
+description: "Dasar-dasar crypto yang WAJIB elo pelajari! Dari nol sampe expert! Resource lengkap untuk pemula sampe advanced!"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📚 Crypto Fundamentals Lengkap
 
 **Dasar-dasar crypto yang WAJIB elo pelajari!** **Dari nol sampe expert!** **Resource lengkap untuk pemula sampe advanced!**

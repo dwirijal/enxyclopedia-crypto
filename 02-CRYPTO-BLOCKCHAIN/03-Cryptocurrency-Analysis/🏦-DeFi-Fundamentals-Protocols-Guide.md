@@ -1,3 +1,13 @@
+---
+layout: default
+title: "DeFi Fundamentals & Protocols Complete Guide"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Sistem keuangan terdesentralisasi yang membangun infrastruktur keuangan baru di atas blockchain - tanpa perantara, transparan, dan terbuka untuk semua"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🏦 DeFi Fundamentals & Protocols: Complete Guide
 
 > Sistem keuangan terdesentralisasi yang membangun infrastruktur keuangan baru di atas blockchain - tanpa perantara, transparan, dan terbuka untuk semua

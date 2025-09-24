@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi Corporate Finance"
+category: "Professional Finance"
+subcategory: "Corporate Finance"
+description: "Kategori: 14-Corporate-Finance Total Artikel: 10+ Status: ⚠️ Perlu Dibuat | 🔄 0% Complete"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Corporate-Finance
 
 ## 🗂️ Kategori: 14-Corporate-Finance

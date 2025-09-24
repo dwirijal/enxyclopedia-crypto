@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Quantitative Finance Strategies"
+category: "Professional Finance"
+subcategory: "Quantitative Methods"
+description: "Panduan lengkap strategi keuangan kuantitatif untuk emerging markets dengan fokus implementasi di Indonesia dan studi kasus praktis"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🔢 Quantitative Finance Strategies - Strategi Keuangan Kuantitatif
 
 **Panduan lengkap strategi keuangan kuantitatif untuk emerging markets dengan fokus implementasi di Indonesia dan studi kasus praktis**

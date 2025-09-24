@@ -1,3 +1,13 @@
+---
+layout: default
+title: "US Stock Market Complete Guide"
+category: "Global Markets"
+subcategory: "Stock Markets"
+description: "Panduan lengkap pasar saham AS - Dari NYSE hingga teknologi trading modern"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🇺🇸 US Stock Market Complete Guide
 
 *Panduan lengkap pasar saham AS - Dari NYSE hingga teknologi trading modern*

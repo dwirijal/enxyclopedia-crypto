@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi Macroeconomic Analysis"
+category: "Global Markets"
+subcategory: "Macroeconomics"
+description: "Daftar isi lengkap kategori Macroeconomic Analysis dengan 10+ artikel tentang analisis makroekonomi"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Macroeconomic-Analysis
 
 ## 🗂️ Kategori: 22-Macroeconomic-Analysis

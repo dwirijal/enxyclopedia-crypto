@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Corporate Finance Keuangan Korporat"
+category: "Professional Finance"
+subcategory: "Advanced Trading"
+description: "Dasar-dasar keuangan korporat: struktur modal, valuation, merger & acquisition dengan studi kasus perusahaan Indonesia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🏛️ Corporate Finance - Keuangan Korporat
 
 **Dasar-dasar keuangan korporat: struktur modal, valuation, merger & acquisition dengan studi kasus perusahaan Indonesia**

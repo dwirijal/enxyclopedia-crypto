@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Bridge Guide Lengkap"
+category: "Crypto & Blockchain"
+subcategory: "DeFi & Web3"
+description: "Panduan lengkap cross-chain bridge di crypto 2025 - jembatan digital antar blockchain untuk ekosistem multi-chain yang terhubung"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🌉 Bridge Guide Lengkap: Panduan Lengkap Cross-Chain Bridge di Crypto 2025
 
 > **"Jembatan digital antar blockchain - kunci untuk ekosistem multi-chain yang terhubung"**

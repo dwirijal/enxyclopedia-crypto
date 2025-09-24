@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Sustainable & ESG Investing - Investasi Berkelanjutan & ESG"
+category: "Advanced Analysis"
+subcategory: "Sustainable Finance"
+description: "Panduan komprehensif investasi berkelanjutan dan ESG dengan fokus implementasi di Indonesia, peluang investasi, dan studi kasus praktis"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💚 Sustainable & ESG Investing - Investasi Berkelanjutan & ESG
 
 **Panduan komprehensif investasi berkelanjutan dan ESG dengan fokus implementasi di Indonesia, peluang investasi, dan studi kasus praktis**

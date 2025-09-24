@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi - Cryptocurrency Deep Dive (Seluk-beluk Cryptocurrency)"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Daftar isi komprehensif untuk cryptocurrency deep dive - navigasi topik kripto"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Cryptocurrency Deep Dive (Seluk-beluk Cryptocurrency)
 
 ## 🗂️ Kategori: 03-Cryptocurrency-Deep-Dive

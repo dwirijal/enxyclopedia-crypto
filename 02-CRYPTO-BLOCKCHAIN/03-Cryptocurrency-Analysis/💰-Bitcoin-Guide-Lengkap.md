@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Bitcoin Guide Lengkap - Dari Whitepaper Hingga Digital Gold"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Panduan komprehensif Bitcoin dari whitepaper hingga digital gold - teknologi, ekonomi, dan investasi"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💰 Bitcoin Guide Lengkap - Dari Whitepaper Hingga Digital Gold
 
 ## Pendahuluan: Bitcoin Sebagai Revolusi Keuangan Digital

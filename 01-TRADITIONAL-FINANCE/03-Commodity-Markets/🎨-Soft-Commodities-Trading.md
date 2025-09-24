@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Soft Commodities Trading"
+category: "Traditional Finance"
+subcategory: "Commodity Markets"
+description: "Panduan lengkap trading soft commodities (gula, kopi, kapas, dll) dengan studi kasus Indonesia dan strategi praktis"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🎨 Soft Commodities Trading - Trading Komoditas Lunas
 
 **Panduan lengkap trading soft commodities (gula, kopi, kapas, dll) dengan studi kasus Indonesia dan strategi praktis**

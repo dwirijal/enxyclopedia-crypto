@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Consensus Mechanisms Deep Dive"
+category: "Crypto & Blockchain"
+subcategory: "Blockchain Technology"
+description: "Cara kerja Proof-of-Work, Proof-of-Stake, DPoS, BFT - Dasar kesepakatan terdesentralisasi"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🔗 Consensus Mechanisms Deep Dive
 
 **Cara kerja Proof-of-Work, Proof-of-Stake, DPoS, BFT - Dasar kesepakatan terdesentralisasi**

@@ -1,3 +1,13 @@
+---
+layout: default
+title: "History of Money From Barter to Bitcoin"
+category: "Crypto & Blockchain"
+subcategory: "Fundamentals"
+description: "The Evolution of Value Exchange"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # History of Money: From Barter to Bitcoin
 
 ## 🔄 The Evolution of Value Exchange

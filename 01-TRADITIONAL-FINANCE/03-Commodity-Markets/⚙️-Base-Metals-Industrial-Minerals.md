@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Base Metals Industrial Minerals"
+category: "Traditional Finance"
+subcategory: "Commodity Markets"
+description: "Panduan lengkap trading logam dasar dan mineral industri dengan fokus aplikasi industri dan studi kasus Indonesia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # ⚙️ Base Metals & Industrial Minerals - Logam Dasar & Mineral Industri
 
 **Panduan lengkap trading logam dasar dan mineral industri dengan fokus aplikasi industri dan studi kasus Indonesia**

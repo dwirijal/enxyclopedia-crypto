@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Sistem Perbankan Indonesia Lengkap"
+category: "Traditional Finance"
+subcategory: "Money & Banking"
+description: "Struktur, regulasi, dan operasional perbankan di Indonesia dengan studi kasus nyata"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🏦 Sistem Perbankan Indonesia Lengkap
 
 **Struktur, regulasi, dan operasional perbankan di Indonesia dengan studi kasus nyata**

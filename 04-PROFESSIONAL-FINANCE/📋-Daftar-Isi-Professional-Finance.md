@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi Professional Finance"
+category: "Professional Finance"
+subcategory: "Overview"
+description: "Panduan navigasi untuk keuangan profesional dan institusional"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Professional Finance
 
 **Panduan navigasi untuk keuangan profesional dan institusional**

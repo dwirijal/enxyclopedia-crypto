@@ -1,3 +1,13 @@
+---
+layout: default
+title: "DeFi Primitives Guide"
+category: "Crypto & Blockchain"
+subcategory: "DeFi & Web3"
+description: "Panduan lengkap DeFi primitives untuk pemula hingga mahir - memahami protokol DeFi dasar dan cara kerjanya"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🏗️ DeFi Primitives Guide
 
 > **Panduan Lengkap DeFi Primitives untuk Pemula hingga Mahir**

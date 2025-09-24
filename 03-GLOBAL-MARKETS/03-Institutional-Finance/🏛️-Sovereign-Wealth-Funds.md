@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Sovereign Wealth Funds"
+category: "Global Markets"
+subcategory: "Institutional Finance"
+description: "Panduan Lengkap Sovereign Wealth Funds dan Dampak Globalnya"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🏛️ Sovereign Wealth Funds
 
 > **Panduan Lengkap Sovereign Wealth Funds dan Dampak Globalnya**

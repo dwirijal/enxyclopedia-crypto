@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Portfolio Management Strategies"
+category: "Professional Finance"
+subcategory: "Advanced Trading"
+description: "Strategi manajemen portofolio: modern portfolio theory, asset allocation, risk management dengan studi kasus pasar modal Indonesia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📊 Portfolio Management Strategies
 
 **Strategi manajemen portofolio: modern portfolio theory, asset allocation, risk management dengan studi kasus pasar modal Indonesia**

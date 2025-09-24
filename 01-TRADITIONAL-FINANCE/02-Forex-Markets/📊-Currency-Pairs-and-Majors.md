@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Currency Pairs and Majors"
+category: "Traditional Finance"
+subcategory: "Forex Markets"
+description: "Panduan Lengkap Pasangan Mata Uang dan Trading Forex"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📊 Currency Pairs and Majors
 
 > **Panduan Lengkap Pasangan Mata Uang dan Trading Forex**

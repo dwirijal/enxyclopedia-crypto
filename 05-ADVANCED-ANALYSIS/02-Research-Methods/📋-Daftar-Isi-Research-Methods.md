@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi - Research Methods"
+category: "Advanced Analysis"
+subcategory: "Research Methods"
+description: "Panduan navigasi untuk metodologi riset dan analisis lanjutan"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Research-Methods
 
 ## 🗂️ Kategori: 16-Research-Methods

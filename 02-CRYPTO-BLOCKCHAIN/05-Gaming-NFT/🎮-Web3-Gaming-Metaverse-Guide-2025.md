@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Web3 Gaming & Metaverse Guide 2025"
+category: "Crypto & Blockchain"
+subcategory: "Gaming & NFT"
+description: "Panduan lengkap Web3 gaming dan metaverse 2025 - dari play-to-earn evolution hingga virtual world yang advanced"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🎮 Web3 Gaming & Metaverse Guide 2025
 
 **Gaming crypto lagi berubah drastis!** **Metaverse udah kayak gimana?** **Game mana yang lagi trending?**

@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Bitcoin Fundamentals"
+category: "Crypto & Blockchain"
+subcategory: "Fundamentals"
+description: "What is Bitcoin?"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # Bitcoin Fundamentals
 
 ## 🪙 What is Bitcoin?

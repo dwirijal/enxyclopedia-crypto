@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Cardano Ecosystem Guide Lengkap"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Blockchain berbasis research akademis - Proof of Stake dengan fokus sustainability dan pendekatan scientific"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🔵 Cardano Ecosystem Guide Lengkap
 
 **Cardano itu blockchain berbasis research akademis!** **Proof of Stake dengan fokus sustainability!** **Gimana cara kerja Cardano dan apa potensinya?**

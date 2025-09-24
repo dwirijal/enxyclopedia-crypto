@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi Fundamentals"
+category: "Crypto & Blockchain"
+subcategory: "Fundamentals"
+description: "Kategori: 01-Fundamentals"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📚 Daftar Isi - Fundamentals (Dasar-dasar)
 
 ## 🗂️ Kategori: 01-Fundamentals

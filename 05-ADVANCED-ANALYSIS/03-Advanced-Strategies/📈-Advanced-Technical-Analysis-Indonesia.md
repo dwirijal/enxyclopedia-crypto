@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Advanced Technical Analysis - Analisis Teknikal Lanjutan Indonesia"
+category: "Advanced Analysis"
+subcategory: "Advanced Strategies"
+description: "Panduan komprehensif analisis teknikal tingkat lanjut dengan fokus pasar Indonesia, studi kasus lokal, dan implementasi praktis"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📈 Advanced Technical Analysis - Analisis Teknikal Lanjutan Indonesia
 
 **Panduan komprehensif analisis teknikal tingkat lanjut dengan fokus pasar Indonesia, studi kasus lokal, dan implementasi praktis**

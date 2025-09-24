@@ -41,30 +41,35 @@ kramdown:
 # Navigation structure
 header_pages:
   - index.md
-  - 00-MAIN-DOCS/🌐-Enhanced-File-Structure.md
-  - 00-MAIN-DOCS/📋-Daftar-Isi-Lengkap-Knowledge-Base.md
+  - docs/wiki/🌐-Enhanced-File-Structure.md
+  - docs/wiki/📋-Daftar-Isi-Lengkap-Knowledge-Base.md
 
 # Collections for better organization
 collections:
   traditional_finance:
     output: true
-    permalink: /:collection/:path/
+    permalink: /traditional-finance/:path/
 
   crypto_blockchain:
     output: true
-    permalink: /:collection/:path/
+    permalink: /crypto-blockchain/:path/
 
   global_markets:
     output: true
-    permalink: /:collection/:path/
+    permalink: /global-markets/:path/
 
   professional_finance:
     output: true
-    permalink: /:collection/:path/
+    permalink: /professional-finance/:path/
 
   advanced_analysis:
     output: true
-    permalink: /:collection/:path/
+    permalink: /advanced-analysis/:path/
+
+# Wiki documentation collection
+wiki:
+  output: true
+  permalink: /wiki/:path/
 
 # Exclude from processing
 exclude:
@@ -84,15 +89,23 @@ exclude:
   - .obsidian/
   - backup.sh
   - backup.bat
-  - 00-MAIN-DOCS/backup.sh
-  - 00-MAIN-DOCS/backup.bat
-  - all_links.txt
+  - docs/getting-started.md
+  - docs/project-overview.md
+  - docs/development.md
+  - docs/deployment.md
+  - docs/directory-structure.md
+  - docs/content-organization.md
+  - docs/technical-stack.md
+  - docs/design-system.md
+  - docs/contributing.md
+  - docs/content-guidelines.md
+  - docs/code-of-conduct.md
+  - docs/troubleshooting.md
+  - docs/faq.md
+  - docs/glossary.md
   - CLAUDE.md
-  - 📁-ENHANCED-HIERARCHICAL-STRUCTURE.md
-  - 📁-ENHANCED-NON-DUPLICATED-STRUCTURE.md
-  - 📁-FILE-STRUCTURE-OVERVIEW.md
-  - 📁-REFactORED-FILE-STRUCTURE.md
-  - 🚀-STRUCTURE-IMPLEMENTATION-COMPLETE.md
+  - LINK-STATUS-REPORT.md
+  - GITHUB-PAGES-SETUP.md
 
 # Front matter defaults
 defaults:

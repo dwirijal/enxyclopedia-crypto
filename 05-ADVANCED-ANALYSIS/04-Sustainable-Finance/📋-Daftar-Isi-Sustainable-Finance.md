@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi - Sustainable Finance"
+category: "Advanced Analysis"
+subcategory: "Sustainable Finance"
+description: "Panduan navigasi untuk keuangan berkelanjutan dan investasi ESG"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Sustainable-Finance
 
 ## 🗂️ Kategori: 17-Sustainable-Finance

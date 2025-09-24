@@ -1,3 +1,13 @@
+---
+layout: default
+title: "European Stock Markets Guide"
+category: "Global Markets"
+subcategory: "Global Stock Markets"
+description: "Panduan lengkap untuk berinvestasi di pasar saham Eropa bagi investor Indonesia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🇪🇺 European Stock Markets Guide: Panduan Lengkap Pasar Saham Eropa
 
 > **"Menjelajahi ekosistem pasar modal Eropa - dari London hingga Frankfurt, peluang investasi di benua tertua"**

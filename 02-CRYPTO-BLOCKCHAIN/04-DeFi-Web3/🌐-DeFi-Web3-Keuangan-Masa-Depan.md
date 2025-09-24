@@ -1,3 +1,13 @@
+---
+layout: default
+title: "DeFi & Web3: The Future of Finance"
+category: "Crypto & Blockchain"
+subcategory: "DeFi & Web3"
+description: "Comprehensive guide to decentralized finance and Web3 ecosystem - from basic concepts to advanced applications and future trends"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # DeFi & Web3: The Future of Finance
 
 ## 🌐 What is DeFi?

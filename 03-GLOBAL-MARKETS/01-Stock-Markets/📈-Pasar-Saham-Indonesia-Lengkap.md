@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Pasar Saham Indonesia Lengkap"
+category: "Global Markets"
+subcategory: "Stock Markets"
+description: "Panduan lengkap investasi saham di Indonesia dengan studi kasus BEI dan strategi lokal"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📈 Pasar Saham Indonesia Lengkap
 
 **Panduan lengkap investasi saham di Indonesia dengan studi kasus BEI dan strategi lokal**

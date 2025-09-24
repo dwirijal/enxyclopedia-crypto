@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Trading Forex untuk Pemula Indonesia"
+category: "Traditional Finance"
+subcategory: "Forex Markets"
+description: "Panduan lengkap trading forex dengan fokus pasar Indonesia, studi kasus IDR, dan contoh lokal"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💱 Trading Forex untuk Pemula Indonesia
 
 **Panduan lengkap trading forex dengan fokus pasar Indonesia, studi kasus IDR, dan contoh lokal**

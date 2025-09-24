@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Electricity and Power Markets"
+category: "Traditional Finance"
+subcategory: "Commodity Markets"
+description: "Pasar listrik, trading energi, dan transisi energi bersih di Indonesia dan global"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # ⚡ Electricity and Power Markets
 
 **Pasar listrik, trading energi, dan transisi energi bersih di Indonesia dan global**

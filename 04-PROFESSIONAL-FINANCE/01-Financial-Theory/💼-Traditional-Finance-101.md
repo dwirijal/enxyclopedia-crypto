@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Traditional Finance 101"
+category: "Professional Finance"
+subcategory: "Financial Theory"
+description: "Dasar-dasar keuangan tradisional - Sistem, instrumen, dan operasi"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 💼 Traditional Finance 101
 
 *Dasar-dasar keuangan tradisional - Sistem, instrumen, dan operasi*

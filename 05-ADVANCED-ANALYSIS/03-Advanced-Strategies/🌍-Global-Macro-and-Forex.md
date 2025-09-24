@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Global Macro and Forex Analysis"
+category: "Advanced Analysis"
+subcategory: "Advanced Strategies"
+description: "Crypto tidak ada di vacuum - semuanya terhubung dengan global economy dan forex markets"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🌍 Global Macro and Forex Analysis: Integrating Traditional Finance with Crypto Markets
 
 > *Crypto tidak ada di vacuum - semuanya terhubung dengan global economy dan forex markets*

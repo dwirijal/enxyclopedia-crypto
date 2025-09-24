@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Layer 2 Ecosystem Guide Lengkap"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Solusi scaling Ethereum - gas fee murah, transaksi cepat, teknologi rollups dan strategi investasi L2"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # ⚡ Layer 2 Ecosystem Guide Lengkap
 
 **Layer 2 itu solusi scaling Ethereum!** **Gas fee murah, transaksi cepat!** **Gimana cara kerja L2 dan mana yang harus dipilih?**

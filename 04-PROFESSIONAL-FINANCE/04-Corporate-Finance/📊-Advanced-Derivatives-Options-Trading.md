@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Advanced Derivatives Options Trading"
+category: "Professional Finance"
+subcategory: "Corporate Finance"
+description: "Panduan komprehensif trading derivatif dan opsi tingkat lanjutan dengan strategi kompleks, manajemen risiko, dan implementasi di pasar Indonesia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📊 Advanced Derivatives & Options Trading - Derivatif Lanjutan & Trading Opsi
 
 **Panduan komprehensif trading derivatif dan opsi tingkat lanjutan dengan strategi kompleks, manajemen risiko, dan implementasi di pasar Indonesia**

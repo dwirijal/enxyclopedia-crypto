@@ -1,3 +1,13 @@
+---
+layout: default
+title: "NFT & Metaverse: Panduan Lengkap dari Nol"
+category: "Crypto & Blockchain"
+subcategory: "Gaming & NFT"
+description: "Panduan lengkap NFT dan metaverse dari dasar hingga advanced - cara membuat NFT, memahami teknologi, dan peluang investasi"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🎨 NFT & Metaverse: Panduan Lengkap dari Nol
 
 **Apa sih NFT itu?** **Metaverse itu apa ya?** **Gimana cara buat NFT?**

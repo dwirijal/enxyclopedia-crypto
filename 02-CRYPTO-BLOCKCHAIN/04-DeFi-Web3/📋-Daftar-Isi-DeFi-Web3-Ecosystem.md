@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi - DeFi & Web3 Ecosystem"
+category: "Crypto & Blockchain"
+subcategory: "DeFi & Web3"
+description: "Daftar isi lengkap ekosistem DeFi & Web3 - navigasi dan organisasi konten DeFi protocols, Web3 applications, dan decentralized finance"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - DeFi & Web3 Ecosystem (Ekosistem DeFi & Web3)
 
 ## 🗂️ Kategori: 04-DeFi-Web3-Ecosystem

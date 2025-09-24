@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Types of Cryptocurrencies"
+category: "Crypto & Blockchain"
+subcategory: "Cryptocurrency Analysis"
+description: "Cryptocurrency classification and comprehensive guide to different types of digital assets"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # Types of Cryptocurrencies
 
 ## 🏷️ Cryptocurrency Classification

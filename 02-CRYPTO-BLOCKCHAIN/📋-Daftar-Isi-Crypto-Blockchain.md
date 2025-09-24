@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi Crypto Blockchain"
+category: "Crypto & Blockchain"
+subcategory: "Index"
+description: "Complete navigation guide for cryptocurrency and blockchain ecosystem"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Cryptocurrency & Blockchain
 
 **Panduan navigasi lengkap untuk ekosistem crypto dan blockchain**

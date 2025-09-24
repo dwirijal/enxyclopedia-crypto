@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Financial Statement Analysis"
+category: "Professional Finance"
+subcategory: "Advanced Trading"
+description: "Analisis laporan keuangan: rasio keuangan, trend analysis, dan interpretasi dengan studi kasus perusahaan Indonesia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📊 Financial Statement Analysis
 
 **Analisis laporan keuangan: rasio keuangan, trend analysis, dan interpretasi dengan studi kasus perusahaan Indonesia**

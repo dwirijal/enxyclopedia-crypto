@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Blockchain Scalability Solutions Indonesia"
+category: "Crypto & Blockchain"
+subcategory: "Blockchain Technology"
+description: "Blockchain lemot? Gas fee mahal? Transaksi lama?"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # ⚡ Blockchain Scalability Solutions Indonesia
 
 **Blockchain lemot?** **Gas fee mahal?** **Transaksi lama?**

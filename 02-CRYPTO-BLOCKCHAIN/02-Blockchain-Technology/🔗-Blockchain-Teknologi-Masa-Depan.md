@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Blockchain Technology"
+category: "Crypto & Blockchain"
+subcategory: "Blockchain Technology"
+description: "What is Blockchain?"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # Blockchain Technology
 
 ## 🔗 What is Blockchain?

@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Quantitative Investing Guide"
+category: "Professional Finance"
+subcategory: "Quantitative Methods"
+description: "Panduan Lengkap Investasi Kuantitatif untuk Investor Indonesia Memahami Model Matematika, Statistik, dan Algoritma dalam Investasi"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📊 Quantitative Investing Guide
 
 > **Panduan Lengkap Investasi Kuantitatif untuk Investor Indonesia**

@@ -1,3 +1,13 @@
+---
+layout: default
+title: "DeFi Protocols Guide Lengkap"
+category: "Crypto & Blockchain"
+subcategory: "DeFi & Web3"
+description: "Panduan lengkap DeFi protocols dari AMM, lending, hingga yield farming - cara dapat passive income dengan aman dan mengerti teknologinya"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🏗️ DeFi Protocols Guide Lengkap
 
 **Mau coba DeFi tapi takut?** **Bingung beda AMM, lending, yield farming?**

@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Dampak Ekonomi Kripto Dunia"
+category: "Crypto & Blockchain"
+subcategory: "Gaming & NFT"
+description: "Dampak ekonomi crypto secara global - dari macroeconomic effects, perubahan sistem keuangan, hingga future implications buat ekonomi dunia"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🌍 Dampak Ekonomi Kripto Dunia
 
 **Crypto itu nggak cuma buat trading!** **Dampak ekonominya global banget!** **Dari financial inclusion sampe perubahan sistem keuangan internasional!**

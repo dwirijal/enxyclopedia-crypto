@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Cryptographic Primitives"
+category: "Crypto & Blockchain"
+subcategory: "Blockchain Technology"
+description: "Dasar-dasar kriptografi: Hashing, Signatures, Encryption - Foundation keamanan blockchain"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🔗 Cryptographic Primitives
 
 **Dasar-dasar kriptografi: Hashing, Signatures, Encryption - Foundation keamanan blockchain**

@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Agricultural Commodities"
+category: "Traditional Finance"
+subcategory: "Commodity Markets"
+description: "Panduan Lengkap Komoditas Pertanian dan Dampak Ekonominya"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🌾 Agricultural Commodities
 
 > **Panduan Lengkap Komoditas Pertanian dan Dampak Ekonominya**

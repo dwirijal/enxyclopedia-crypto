@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Daftar Isi Traditional Finance"
+category: "Traditional Finance"
+subcategory: "Overview"
+description: "Panduan navigasi untuk domain Traditional Finance"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 📋 Daftar Isi - Traditional Finance
 
 **Panduan navigasi untuk domain Traditional Finance**

@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Financial Regulation and Compliance"
+category: "Traditional Finance"
+subcategory: "Money & Banking"
+description: "Panduan lengkap regulasi keuangan dan kepatuhan dalam sistem keuangan modern"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🏛️ Financial Regulation and Compliance
 
 *Panduan lengkap regulasi keuangan dan kepatuhan dalam sistem keuangan modern*

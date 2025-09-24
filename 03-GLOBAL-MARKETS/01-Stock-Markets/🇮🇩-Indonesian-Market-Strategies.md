@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Indonesian Market Strategies"
+category: "Global Markets"
+subcategory: "Stock Markets"
+description: "Panduan komprehensif strategi investasi di pasar Indonesia dengan studi kasus praktis dan analisis mendalam"
+date: 2025-09-24
+last_modified: 2025-09-24
+---
+
 # 🇮🇩 Indonesian Market Strategies - Strategi Investasi Pasar Indonesia
 
 **Panduan komprehensif strategi investasi di pasar Indonesia dengan studi kasus praktis dan analisis mendalam**
