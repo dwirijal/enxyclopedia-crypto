@@ -37,11 +37,17 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
-          bundler-cache: true
+          bundler-cache: false
+
+      - name: Clear cache
+        run: |
+          rm -rf vendor/bundle
+          rm -rf Gemfile.lock
 
       - name: Install dependencies
         run: |
           gem install bundler
+          bundle config set --local path 'vendor/bundle'
           bundle install --jobs 4 --retry 3 --verbose
 
       - name: Build with Jekyll
