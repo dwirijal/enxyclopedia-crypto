@@ -1,0 +1,115 @@
+# Site settings
+title: "Financial Markets Knowledge Base"
+description: "Comprehensive financial markets and cryptocurrency knowledge base in Bahasa Indonesia"
+author: "dwirijal"
+lang: "id-ID"
+
+# URL settings
+url: "https://dwirijal.github.io" # the base hostname & protocol for your site
+baseurl: "/enxyclopedia-crypto" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Theme settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation structure
+header_pages:
+  - index.md
+  - 00-MAIN-DOCS/🌐-Enhanced-File-Structure.md
+  - 00-MAIN-DOCS/📋-Daftar-Isi-Lengkap-Knowledge-Base.md
+
+# Collections for better organization
+collections:
+  traditional_finance:
+    output: true
+    permalink: /:collection/:path/
+  
+  crypto_blockchain:
+    output: true
+    permalink: /:collection/:path/
+  
+  global_markets:
+    output: true
+    permalink: /:collection/:path/
+  
+  professional_finance:
+    output: true
+    permalink: /:collection/:path/
+  
+  advanced_analysis:
+    output: true
+    permalink: /:collection/:path/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - README.md
+  - LICENSE
+  - CHANGELOG.md
+
+# Front matter defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  - scope:
+      path: ""
+      type: "traditional_finance"
+    values:
+      layout: "page"
+      category: "Traditional Finance"
+  - scope:
+      path: ""
+      type: "crypto_blockchain"
+    values:
+      layout: "page"
+      category: "Crypto & Blockchain"
+  - scope:
+      path: ""
+      type: "global_markets"
+    values:
+      layout: "page"
+      category: "Global Markets"
+  - scope:
+      path: ""
+      type: "professional_finance"
+    values:
+      layout: "page"
+      category: "Professional Finance"
+  - scope:
+      path: ""
+      type: "advanced_analysis"
+    values:
+      layout: "page"
+      category: "Advanced Analysis"
+
+# SEO and social media
+twitter:
+  username: dwirijal
+  card: summary
+
+github:
+  repository_url: https://github.com/dwirijal/enxyclopedia-crypto
+
+# Google Analytics (add your tracking ID later)
+# google_analytics: UA-XXXXXXXXX-X
