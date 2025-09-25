@@ -1,5 +1,5 @@
 ---
-layout: apple
+layout: default
 title: Financial Markets Knowledge Base
 ---
 

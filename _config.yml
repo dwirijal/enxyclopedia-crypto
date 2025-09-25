@@ -1,29 +1,31 @@
-# Site settings
+# =============================================================================
+# Financial Markets Knowledge Base - GitHub Pages Configuration
+# Clean, minimal, and optimized for GitHub Pages deployment
+# =============================================================================
+
+# Site Information
 title: "Financial Markets Knowledge Base"
 description: "Comprehensive financial markets and cryptocurrency knowledge base in Bahasa Indonesia"
 author: "dwirijal"
 lang: "id-ID"
 
-# URL settings - GitHub Pages
-url: "https://dwirijal.github.io" # the base hostname & protocol for your site
-baseurl: "/enxyclopedia-crypto" # the subpath of your site
+# GitHub Pages Configuration
+url: "https://dwirijal.github.io"
+baseurl: "/enxyclopedia-crypto"
 
-# Build settings
+# Build Settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 
-# Theme settings
-# theme: minima # Using custom layout instead
-# Plugins are included in github-pages gem
+# GitHub Pages Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-github-metadata
 
-# GitHub Pages specific settings
-lsi: false
-safe: true
-source: .
-incremental: false
-gist:
-  noscript: false
+# Kramdown Settings
 kramdown:
   input: GFM
   hard_wrap: false
@@ -32,138 +34,147 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  syntax_highlighter: rouge
 
-# Navigation structure
-header_pages:
-  - index.md
-  - docs/wiki/enhanced-file-structure.md
-  - docs/wiki/daftar-isi-lengkap.md
-
-# Collections for better organization
+# Collections
 collections:
   traditional_finance:
     output: true
     permalink: /traditional-finance/:path/
-
+  
   crypto_blockchain:
     output: true
     permalink: /crypto-blockchain/:path/
-
+  
   global_markets:
     output: true
     permalink: /global-markets/:path/
-
+  
   professional_finance:
     output: true
     permalink: /professional-finance/:path/
-
+  
   advanced_analysis:
     output: true
     permalink: /advanced-analysis/:path/
+  
+  wiki:
+    output: true
+    permalink: /wiki/:path/
 
-# Wiki documentation collection
-wiki:
-  output: true
-  permalink: /wiki/:path/
-
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - README.md
-  - LICENSE
-  - CHANGELOG.md
-  - .obsidian/
-  - backup.sh
-  - backup.bat
-  - docs/getting-started.md
-  - docs/project-overview.md
-  - docs/development.md
-  - docs/deployment.md
-  - docs/directory-structure.md
-  - docs/content-organization.md
-  - docs/technical-stack.md
-  - docs/design-system.md
-  - docs/contributing.md
-  - docs/content-guidelines.md
-  - docs/code-of-conduct.md
-  - docs/troubleshooting.md
-  - docs/faq.md
-  - docs/glossary.md
-  - CLAUDE.md
-  - LINK-STATUS-REPORT.md
-  - GITHUB-PAGES-SETUP.md
-
-# Front matter defaults
+# Front Matter Defaults
 defaults:
   - scope:
       path: ""
-      type: "posts"
     values:
-      layout: "post"
-      comments: true
+      layout: "default"
+  
   - scope:
       path: ""
       type: "traditional_finance"
     values:
       layout: "default"
       category: "Traditional Finance"
+  
   - scope:
       path: ""
       type: "crypto_blockchain"
     values:
       layout: "default"
       category: "Crypto & Blockchain"
+  
   - scope:
       path: ""
       type: "global_markets"
     values:
       layout: "default"
       category: "Global Markets"
+  
   - scope:
       path: ""
       type: "professional_finance"
     values:
       layout: "default"
       category: "Professional Finance"
+  
   - scope:
       path: ""
       type: "advanced_analysis"
     values:
       layout: "default"
       category: "Advanced Analysis"
+  
   - scope:
       path: ""
+      type: "wiki"
     values:
       layout: "default"
+      category: "Wiki"
 
-# SEO and social media
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+  - .git
+  - .github
+  - .obsidian
+  - README.md
+  - LICENSE
+  - CHANGELOG.md
+  - CONTRIBUTING.md
+  - backup.sh
+  - backup.bat
+  - analyze_links_properly.sh
+  - analyze_links_with_paths.sh
+  - check_links_fixed.sh
+  - check_links.sh
+  - test-yaml.py
+  - CLAUDE.md
+  - LINK-STATUS-REPORT.md
+  - GITHUB-PAGES-SETUP.md
+  - BACKEND-PERFORMANCE-AUDIT.md
+  - DOMAIN-REFACTORING-SUMMARY.md
+
+# GitHub Settings
+github:
+  repository_url: https://github.com/dwirijal/enxyclopedia-crypto
+
+# SEO Settings
 twitter:
   username: dwirijal
   card: summary
 
-github:
-  repository_url: https://github.com/dwirijal/enxyclopedia-crypto
-
-# Google Analytics (add your tracking ID later)
-# google_analytics: UA-XXXXXXXXX-X
-
-# Jekyll SEO Tag
 social:
   name: dwirijal
   links:
     - https://github.com/dwirijal
     - https://twitter.com/dwirijal
 
-# Webmaster verification
-google_site_verification: ""
-bing_site_verification: ""
+# Feed and Sitemap
+feed:
+  path: atom.xml
+
+# GitHub Pages specific
+lsi: false
+safe: true
+source: .
+incremental: false
+
+# Sass settings
+sass:
+  style: compressed
+  sourcemap: never
+
+# Liquid settings
+liquid:
+  error_mode: warn
+  strict_filters: false
+  strict_variables: false
+
+# Timezone
+timezone: Asia/Jakarta
